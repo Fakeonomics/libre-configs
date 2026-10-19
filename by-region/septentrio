@@ -73,6 +73,5 @@ vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none&
 vless://0be0a2bf-aa20-4e52-aa5a-3d59d56b1582@31.77.28.118:2083?security=reality&pbk=niPkNwQ3kdNewalJ25vG_8GNJDdsxJTxbzgyX4lce0I&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ss2.underground.company&sid=f26f705a6e554a41#🇺🇸 [US]
 vless://a4347760-38d3-4997-a2de-d6313c9d04cc@3.131.98.27:443?sni=www.microsoft.com&sid=8aa2f8fa7fc4d92a&security=reality&type=tcp&spx=%2F&flow=xtls-rprx-vision&pbk=xeRwFvpeUh3DMttSCuBwQU3M0L-m44O3Q-6R0z2Oknc&fp=chrome#🇺🇸 [US]
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.58.21:443?flow=xtls-rprx-vision&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sni=www.amazon.com&type=tcp#🇺🇸 [US]
-vless://eae4af7f-0a0c-4af9-8f5f-b7dd403e59d5@136.175.179.94:8444?fp=chrome&security=none&type=tcp#🇺🇸 [US]
 vless://f5f0babe-aea2-4f07-a1fc-3c9820253f49@181.214.152.137:51104?fp=chrome&pbk=5XPuEa7CkCbN4W1iJH6P0ogGhODHkKUDEhmTosBQASQ&security=reality&sid=abcd1234&sni=apple.com&type=tcp#🇺🇸 [US]
 vless://cb2dbb6a-a1ea-4023-9ace-6466cee57241@51.81.203.63:443?security=reality&encryption=none&pbk=nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=4477382ff6d3d41c#🇺🇸 [US]

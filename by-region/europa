@@ -34,7 +34,6 @@ vless://fd1d80da-3b27-457a-810b-2b28a309edc1@195.123.6.19:8443?encryption=none&f
 vless://a3304281-9ecc-4fed-a6ba-e77e07928877@85.93.10.247:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=kings.applepie-recipe.ru&type=tcp#🇩🇪 [DE]
 vless://0be0a2bf-aa20-4e52-aa5a-3d59d56b1582@31.76.249.99:2083?security=reality&pbk=52ubfjA6UOtgDpRoap_ERN7qIFl0VgucprglobhPjnw&fp=chrome&spx=%2FHesarWeb&type=tcp&flow=xtls-rprx-vision&sni=genexus.underground.company&sid=f9e41dee3defd503#🇩🇪 [DE]
 vless://28b983d7-f532-4eb7-b3e7-75aa60290c76@45.135.194.193:80?type=tcp&security=none&fp=chrome#🇩🇪 [DE]
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&sni=www.intel.com&sid=85c86a9863&spx=%2Fozks0ksxmyHue4v#🇩🇪 [DE]
 vless://0be0a2bf-aa20-4e52-aa5a-3d59d56b1582@31.76.249.99:2083?security=reality&pbk=52ubfjA6UOtgDpRoap_ERN7qIFl0VgucprglobhPjnw&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=genexus.underground.company&sid=f9e41dee3defd503#🇩🇪 [DE]
 vless://317bc783-340f-453c-afb5-b6bf637c0b23@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=fc994ae7eb10&sni=www.tradingview.com#🇬🇧 [GB]
 vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&security=reality&sid=18e4d2d21241&sni=www.microsoft.com&type=tcp#🇬🇧 [GB]
