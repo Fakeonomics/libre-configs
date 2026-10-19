@@ -6,77 +6,76 @@
 
 ---
 
-## 📖 Главная книга
+## Main Config
 
-| Файл | Описание | Конфиги |
-|------|----------|---------|
-| [`liber`](liber) | **Главная книга** — вся свобода сразу | `all` |
-| [`umbra`](by-protocol/umbra) | VLESS — невидимый | VLESS |
-| [`phantom`](by-protocol/phantom) | VMess — призрак | VMess |
-| [`celeritas`](by-protocol/celeritas) | Hysteria2 — скорость | Hysteria2 |
-| [`equus`](by-protocol/equus) | Trojan — скрытый | Trojan |
+| File | Description | Protocol |
+|------|-------------|----------|
+| [`liber`](liber) | Main config — all protocols | All |
+| [`umbra`](by-protocol/umbra) | VLESS — invisible | VLESS |
+| [`phantom`](by-protocol/phantom) | VMess — phantom | VMess |
+| [`celeritas`](by-protocol/celeritas) | Hysteria2 — speed | Hysteria2 |
+| [`equus`](by-protocol/equus) | Trojan — hidden | Trojan |
 
 ---
 
-## 🌍 По регионам (Карта свободы)
+## By Region
 
-| Регион | Файл | Латынь |
+| Region | File | Latin |
 |--------|------|--------|
-| Европа | [`europa`](by-region/europa) | *europa* |
-| Северная Америка | [`septentrio`](by-region/septentrio) | *septentrio* |
-| Азия | [`oriens`](by-region/oriens) | *oriens* |
+| Europe | [`europa`](by-region/europa) | *europa* |
+| North America | [`septentrio`](by-region/septentrio) | *septentrio* |
+| Asia | [`oriens`](by-region/oriens) | *oriens* |
 
 ---
 
-## 🔮 Специальные разделы
+## Special Builds
 
-| Файл | Смысл | Латынь |
-|------|-------|--------|
-| [`occultus`](special/occultus) | Невидимые (Reality, gRPC) | *occultus* |
-| [`lux`](special/lux) | Только скорость | *lux* |
-| [`anchor`](special/anchor) | Только стабильные | *anchor* |
+| File | Meaning | Latin |
+|------|---------|-------|
+| [`occultus`](special/occultus) | Stealth (Reality, gRPC) | *occultus* |
+| [`lux`](special/lux) | Speed only | *lux* |
+| [`anchor`](special/anchor) | Stable only | *anchor* |
 
 ---
 
-## 🔗 Как пользоваться
+## Usage
 
-### В клиенте (Hiddify, v2rayNG, Nekobox, Sing-box)
+### In Client (Hiddify, v2rayNG, Nekobox, Sing-box)
 ```
 https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber
 ```
 
-### Только VLESS (невидимые)
+### VLESS Only
 ```
 https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/by-protocol/umbra
 ```
 
-### Только Европа
+### Europe Only
 ```
 https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/by-region/europa
 ```
 
-### Только невидимые (Reality, gRPC)
+### Stealth Only (Reality, gRPC)
 ```
 https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/occultus
 ```
 
 ---
 
-## 🔄 Автообновление
-Каждые **30 минут** из Fakeonomics VPN (сервер `fakeonomics.online`).  
-GitHub Actions → `main` branch → `raw.githubusercontent.com` (CDN, мгновенно).
+## Auto-Update
+Every **30 minutes** from Fakeonomics VPN (`fakeonomics.online`).  
+GitHub Actions → `main` branch → `raw.githubusercontent.com` (CDN, instant).
 
 ---
 
-## 🔐 Целостность
+## Integrity
 ```bash
-# Проверка SHA256
 sha256sum -c checksums.sha256
 ```
 
 ---
 
-## 📜 Лицензия
+## License
 **Unlicense** — public domain.  
 Do what you want. Freedom is libre.
 
