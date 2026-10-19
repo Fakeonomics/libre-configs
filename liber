@@ -1,0 +1,13 @@
+#profile-title: base64:TGliZXJlIFZQTg==
+#profile-update-interval: 1
+#support-url: https://t.me/IFakeNews
+#profile-web-page-url: https://fakeonomics.online
+
+vless://uuid1@host1:443?security=reality&sni=example.com&fp=chrome&pbk=key1&sid=sid1#🇩🇪 [DE]
+vmess://base64encodedvmess1#🇺🇸 [US]
+hysteria2://user:pass@host2:443?sni=example.com&fp=chrome#🇳🇱 [NL]
+trojan://user@host3:443?security=tls&sni=example.com#🇬🇧 [GB]
+vless://uuid2@host4:443?security=reality&sni=example.com&fp=chrome&pbk=key2&sid=sid2#🇫🇷 [FR]
+vmess://base64encodedvmess2#🇸🇬 [SG]
+hysteria2://user:pass@host5:443?sni=example.com&fp=chrome#🇯🇵 [JP]
+trojan://user@host6:443?security=tls&sni=example.com#🇨🇭 [CH]

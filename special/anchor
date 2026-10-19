@@ -1,0 +1,2 @@
+vless://uuid1@host1:443?security=reality&sni=example.com&fp=chrome&pbk=key1&sid=sid1#🇩🇪 [DE]
+trojan://user@host3:443?security=tls&sni=example.com#🇬🇧 [GB]

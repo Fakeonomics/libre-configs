@@ -1,0 +1,12 @@
+{
+  "updated": "2026-10-19T01:40:00Z",
+  "commit": "auto",
+  "total": 8,
+  "protocols": {
+    "vless": 2,
+    "vmess": 2,
+    "hysteria2": 2,
+    "trojan": 2
+  },
+  "sha256": "auto"
+}

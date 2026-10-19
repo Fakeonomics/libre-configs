@@ -1,0 +1,3 @@
+vless://uuid1@host1:443?security=reality&sni=example.com&fp=chrome&pbk=key1&sid=sid1#🇩🇪 [DE]
+vless://uuid2@host4:443?security=reality&sni=example.com&fp=chrome&pbk=key2&sid=sid2#🇫🇷 [FR]
+vless://uuid1@host1:443?security=reality&sni=example.com&fp=chrome&pbk=key1&sid=sid1#🇬🇧 [GB]

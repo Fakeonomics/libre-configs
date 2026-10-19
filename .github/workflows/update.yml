@@ -1,0 +1,102 @@
+name: 🔄 Update libre-configs
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force full rebuild'
+        required: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: 🔄 Update configs
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: 🌐 Fetch from Fakeonomics VPN
+        id: fetch
+        run: |
+          set -euo pipefail
+          echo "🌐 Fetching from Fakeonomics VPN..."
+          
+          curl -sfL "https://fakeonomics.online/sub/public/all.txt" \
+            -H "User-Agent: libre-configs-bot" \
+            -o liber 2>/dev/null || { echo "❌ Failed to fetch"; exit 1; }
+          
+          count=$(grep -cE '^(vless|vmess|hysteria2|trojan|ss)://' liber || echo 0)
+          echo "📊 Configs found: $count"
+          
+          if [ "$count" -eq 0 ]; then
+            echo "⚠️ Empty response, skipping update"
+            exit 0
+          fi
+          
+          mkdir -p by-protocol by-region special meta
+          
+          mv liber liber
+          
+          grep '^vless://' liber > umbra       2>/dev/null || true
+          grep '^vmess://' liber > phantom     2>/dev/null || true
+          grep '^hysteria2://' liber > celeritas 2>/dev/null || true
+          grep '^trojan://' liber > equus       2>/dev/null || true
+          grep '^ss://' liber > penumbra        2>/dev/null || true
+          
+          grep -i '#🇩🇪' liber > by-region/europa 2>/dev/null || true
+          grep -i '#🇺🇸' liber > by-region/septentrio 2>/dev/null || true
+          grep -i '#🇳🇱\|#🇯🇵\|#🇸🇬' liber > by-region/oriens 2>/dev/null || true
+          grep -i '#🇫🇷\|#🇬🇧' liber > by-region/europa 2>/dev/null || true
+          
+          grep -E 'security=reality|type=grpc' liber > special/occultus 2>/dev/null || true
+          grep -E 'hysteria2://' liber | head -10 > special/lux 2>/dev/null || true
+          grep -v '#' liber | head -20 > special/anchor 2>/dev/null || true
+          
+          cat > meta/manifest.json << META
+          {
+            "updated": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+            "commit": "${{ github.sha }}",
+            "total": $(wc -l < liber),
+            "protocols": {
+              "vless": $(wc -l < umbra 2>/dev/null || echo 0),
+              "vmess": $(wc -l < phantom 2>/dev/null || echo 0),
+              "hysteria2": $(wc -l < celeritas 2>/dev/null || echo 0),
+              "trojan": $(wc -l < equus 2>/dev/null || echo 0)
+            },
+            "sha256": "$(sha256sum liber | cut -d' ' -f1)"
+          }
+          META
+          
+          sha256sum liber umbra phantom celeritas equus 2>/dev/null > meta/checksums.sha256 || true
+          
+          echo "✅ Prepared $(wc -l < liber) configs"
+
+      - name: 📝 Commit & Push
+        run: |
+          git config user.name "libre-bot"
+          git config user.email "libre-bot@fakeonomics.github.io"
+          
+          git add -A
+          git diff --cached --quiet && { echo "✅ No changes"; exit 0; }
+          
+          git commit -m "🔄 auto-update: $(date -u +'%Y-%m-%d %H:%M UTC') — $(wc -l < liber) configs"
+          git push
+          echo "✅ Pushed to github.com/Fakeonomics/libre-configs"
+
+      - name: 📱 Notify Telegram
+        if: always()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TG_BOT_TOKEN }}/sendMessage" \
+            -d chat_id="${{ secrets.TG_CHAT_ID }}" \
+            -d text="🔄 libre-configs updated: $(date -u +'%H:%M UTC')" \
+            -d parse_mode="HTML" >/dev/null 2>&1 || true

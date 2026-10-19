@@ -1,0 +1,15 @@
+# Ignore temporary files
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Ignore test files
+run_test.js
+test_*.js
+test_*.sh
+
+# Ignore local config
+.env
+.env.local
