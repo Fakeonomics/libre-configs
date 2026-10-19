@@ -1,8 +1,8 @@
 # libre-configs
 
-> **libre** ≠ gratis  
-> **libre** = *liber* = *liberate* = *library*  
-> **freedom** ≠ free beer. **freedom** = *liberty*.
+> libre != gratis
+> libre = liber = liberate = library
+> freedom != free beer. freedom = liberty.
 
 ---
 
@@ -10,21 +10,21 @@
 
 | File | Description | Protocol |
 |------|-------------|----------|
-| [`liber`](liber) | Main config — all protocols | All |
-| [`umbra`](by-protocol/umbra) | VLESS — invisible | VLESS |
-| [`phantom`](by-protocol/phantom) | VMess — phantom | VMess |
-| [`celeritas`](by-protocol/celeritas) | Hysteria2 — speed | Hysteria2 |
-| [`equus`](by-protocol/equus) | Trojan — hidden | Trojan |
+| liber | Main config - all protocols | All |
+| umbra | VLESS - invisible | VLESS |
+| phantom | VMess - phantom | VMess |
+| celeritas | Hysteria2 - speed | Hysteria2 |
+| equus | Trojan - hidden | Trojan |
 
 ---
 
 ## By Region
 
 | Region | File | Latin |
-|--------|------|--------|
-| Europe | [`europa`](by-region/europa) | *europa* |
-| North America | [`septentrio`](by-region/septentrio) | *septentrio* |
-| Asia | [`oriens`](by-region/oriens) | *oriens* |
+|--------|------|-------|
+| Europe | europa | europa |
+| North America | septentrio | septentrio |
+| Asia | oriens | oriens |
 
 ---
 
@@ -32,9 +32,9 @@
 
 | File | Meaning | Latin |
 |------|---------|-------|
-| [`occultus`](special/occultus) | Stealth (Reality, gRPC) | *occultus* |
-| [`lux`](special/lux) | Speed only | *lux* |
-| [`anchor`](special/anchor) | Stable only | *anchor* |
+| occultus | Stealth (Reality, gRPC) | occultus |
+| lux | Speed only | lux |
+| anchor | Stable only | anchor |
 
 ---
 
@@ -63,8 +63,8 @@ https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/occultu
 ---
 
 ## Auto-Update
-Every **30 minutes** from Fakeonomics VPN (`fakeonomics.online`).  
-GitHub Actions → `main` branch → `raw.githubusercontent.com` (CDN, instant).
+Every 30 minutes from Fakeonomics VPN (fakeonomics.online).
+GitHub Actions -> main branch -> raw.githubusercontent.com (CDN, instant).
 
 ---
 
@@ -76,10 +76,10 @@ sha256sum -c checksums.sha256
 ---
 
 ## License
-**Unlicense** — public domain.  
+Unlicense - public domain.
 Do what you want. Freedom is libre.
 
 ---
 
-> **libre** = *liber* = *liberate* = *library*  
-> **not free as in beer. free as in liberty.**
+> libre = liber = liberate = library
+> not free as in beer. free as in liberty.
