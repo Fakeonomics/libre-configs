@@ -1,12 +1,11 @@
 {
-  "updated": "2026-10-19T01:40:00Z",
-  "commit": "auto",
-  "total": 8,
+  "updated": "2026-10-19T02:44:16Z",
+  "total": 499,
   "protocols": {
-    "vless": 2,
-    "vmess": 2,
-    "hysteria2": 2,
-    "trojan": 2
+    "vless": 471,
+    "vmess": 11,
+    "hysteria2": 15,
+    "trojan": 0
   },
-  "sha256": "auto"
+  "sha256": "f66c1f788b06671b3e263908ae4bb965ef53df1fef2a301b0615ada44fc7ddb2"
 }
