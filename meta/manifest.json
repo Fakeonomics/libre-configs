@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T10:00:03Z",
+  "updated": "2026-10-19T10:05:45Z",
   "total": 512,
   "protocols": {
     "vless": 513,
@@ -7,5 +7,5 @@
     "hysteria2": 0,
     "trojan": 0
   },
-  "sha256": "ae399aef0afed8aaa60eb7f34497771814fcfe731c91849e2615ec9d4094243e"
+  "sha256": "65c993d3a057a4fb9e7645b6cc2ad8990972475625880f1cab5bacbd900e8e4b"
 }
