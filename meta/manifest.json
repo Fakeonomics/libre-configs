@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T23:00:02Z",
-  "total": 622,
+  "updated": "2026-10-19T23:30:02Z",
+  "total": 624,
   "protocols": {
-    "vless": 623,
+    "vless": 625,
     "vmess": 0,
     "hysteria2": 0,
     "trojan": 0
   },
-  "sha256": "82060ab3d95339baeaabe67de0756a74abd368c7d650e9f99e3779cfb20fcf47"
+  "sha256": "b7d33554ab003f569902a0cfa49d3b2ac37f2d8b97e94717a0b8af79812315f4"
 }
