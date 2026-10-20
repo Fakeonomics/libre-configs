@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-20T02:58:19Z",
+  "updated": "2026-10-20T03:00:50Z",
   "tiers": {
-    "all": 499,
+    "all": 500,
     "good": 339,
     "speed": 60,
     "stable": 120,
-    "white": 266,
+    "white": 267,
     "ru": 48
   },
   "protocols": {
-    "vless": 477,
+    "vless": 478,
     "vmess": 19,
     "ss": 0
 0,
     "trojan": 1,
     "hysteria2": 1
   },
-  "sha256": "efdc37bc5b913ef9a0b61650969664062636a30dde4a9dc76e09d9e962dcf447"
+  "sha256": "6dd4a8fc39eb4c7bbd6fb0196bd0c8a3699e39bb2b54acd912a9ea8b7a2e9428"
 }
