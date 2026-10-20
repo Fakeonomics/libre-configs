@@ -4,12 +4,12 @@
 #profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#🇺🇸 [US] TROJAN 307704
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.200:443?security=tls&sni=de7.dedushka.top&fp=chrome#🇷🇴 [RO] TROJAN 213797
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&sni=de9.dedushka.top&alpn=http%2F1.1&fp=chrome#🇷🇴 [RO] TROJAN 794344
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de1.dedushka.top:443?security=tls&sni=de1.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 792626
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&sni=de3.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 422021
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&sni=de5.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 209226
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 258802
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&sni=de9.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 630705
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?security=tls&sni=nat3.xxai.dpdns.org&host=nat3.xxai.dpdns.org&path=%2Fanyway&fp=chrome#🌐 XX TROJAN 159815
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#🇺🇸 [US] TROJAN 307704~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.200:443?security=tls&sni=de7.dedushka.top&fp=chrome#🇷🇴 [RO] TROJAN 213797~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&sni=de9.dedushka.top&alpn=http%2F1.1&fp=chrome#🇷🇴 [RO] TROJAN 794344~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de1.dedushka.top:443?security=tls&sni=de1.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 792626~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&sni=de3.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 422021~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&sni=de5.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 209226~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 258802~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&sni=de9.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 630705~
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?security=tls&sni=nat3.xxai.dpdns.org&host=nat3.xxai.dpdns.org&path=%2Fanyway&fp=chrome#🌐 XX TROJAN 159815~

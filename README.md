@@ -4,9 +4,9 @@
 
 Обновление подписок каждые 3 часа.
 
-- Обновлено: **2026-10-20 13:45:20 UTC**
-- Всего конфигов в базе: **83153**
-- Живых (прошли проверку): **1924**
+- Обновлено: **2026-10-20 13:59:23 UTC**
+- Всего конфигов в базе: **83362**
+- Живых (прошли проверку): **1926**
 - Уникальных хостов: **1288**
 - Из автопарсеров: **15334**
 
@@ -14,20 +14,79 @@
 
 | Подписка | Конфигов | Протоколы | Описание | Ссылка |
 |---|---|---|---|---|
-| `special/anchor` | 350 | vless: 323, vmess: 9, trojan: 9, ss: 6, hysteria2: 3 | проверенные конфиги + доверенные источники | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor) |
-| `stable.txt` | 350 | vless: 323, vmess: 9, trojan: 9, ss: 6, hysteria2: 3 | то же, что основная | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt) |
-| `liber` | 353 | vless: 323, vmess: 12, trojan: 9, ss: 6, hysteria2: 3 | всё, без потолка | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber) |
+| `special/anchor` | 346 | vless: 318, vmess: 10, trojan: 9, ss: 6, hysteria2: 3 | проверенные конфиги + доверенные источники | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor) |
+| `stable.txt` | 346 | vless: 318, vmess: 10, trojan: 9, ss: 6, hysteria2: 3 | то же, что основная | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt) |
+| `liber` | 346 | vless: 318, vmess: 10, trojan: 9, ss: 6, hysteria2: 3 | всё, без потолка | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber) |
 | `ru.txt` | 60 | vless: 58, hysteria2: 1, ss: 1 | RU-выход отдельной подпиской | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ru.txt) |
 | `vless.txt` | 250 | vless: 250 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vless.txt) |
-| `vmess.txt` | 12 | vmess: 12 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vmess.txt) |
+| `vmess.txt` | 10 | vmess: 10 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vmess.txt) |
 | `trojan.txt` | 9 | trojan: 9 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/trojan.txt) |
-| `ss.txt` | 8 | ss: 8 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ss.txt) |
+| `ss.txt` | 9 | ss: 9 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ss.txt) |
 | `hy2.txt` | 3 | hysteria2: 3 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/hy2.txt) |
 
 ## Канал
 
-- Поддержка и свежие подписки: **[t.me/IFakeNews](https://t.me/IFakeNews)**
+- Мой канал: **[t.me/IFakeNews](https://t.me/IFakeNews)**
 - Веб-приложение: <https://app8967321670.tgcloud.ai/>
+
+## Прямые ссылки на подписки
+
+Скопируйте нужную ссылку и вставьте в приложение: Subs → + → From URL (или отсканируйте QR).
+
+**Основная** — `special/anchor` (346 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor
+```
+
+**Стабильные** — `stable.txt` (346 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt
+```
+
+**Все конфиги** — `liber` (346 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber
+```
+
+**Российские выходы** — `ru.txt` (60 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ru.txt
+```
+
+**Только VLESS** — `vless.txt` (250 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vless.txt
+```
+
+**Только VMess** — `vmess.txt` (10 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vmess.txt
+```
+
+**Только Trojan** — `trojan.txt` (9 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/trojan.txt
+```
+
+**Только SS** — `ss.txt` (9 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ss.txt
+```
+
+**Только Hysteria2** — `hy2.txt` (3 конфигов)
+
+```
+https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/hy2.txt
+```
+
 
 ## Прочее
 
