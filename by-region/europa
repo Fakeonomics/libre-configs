@@ -12,6 +12,7 @@ vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.69.128:443?security=reality&en
 vless://07104d25-afc5-4b3b-a871-c729c57de047@2.27.248.195:443?flow=xtls-rprx-vision&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&security=reality&sni=ded.remnahoysry.ru&type=tcp&fp=chrome#🇩🇪 [DE] VLESS 107
 vless://07104d25-afc5-4b3b-a871-c729c57de047@2.27.248.195:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&sni=ded.remnahoysry.ru#🇩🇪 [DE] VLESS 107
 vless://28b983d7-f532-4eb7-b3e7-75aa60290c76@45.135.194.193:80?type=tcp&headerType=none&security=none&encryption=none&fp=chrome#🇩🇪 [DE] VLESS 1480
+vless://28b983d7-f532-4eb7-b3e7-75aa60290c76@45.135.194.193:80?type=tcp&headerType=none&security=none&encryption=none&fp=chrome#🇩🇪 [DE] VLESS 1480
 vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?security=none&type=tcp&fp=chrome#🇩🇪 [DE] VLESS 1493
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp&packetEncoding=xudp&fp=chrome#🇩🇪 [DE] VLESS 1448
 vless://ca59a503-db23-44af-9879-49747d8da98f@test.wecantos.site:20000?security=none&type=tcp&fp=chrome#🇩🇪 [DE] VLESS 1470
@@ -26,6 +27,7 @@ vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@8gm8kr.palka-cdn.win:443?security=reality&encryption=none&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zses.eu-cdn294.com&sid=6b4cf686eebb37b9#🇪🇸 [ES] VLESS 224
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@8gm8kr.palka-cdn.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com#🇪🇸 [ES] VLESS 224
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@it.song69.fun:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=HbK-TTnL1Dog-wKCowjLrKsx5ECIt2uxBsdGfeWG6kQ&sni=metrika.yandex.ru&fp=firefox&sid=7bbf811a#🇮🇹 [IT] VLESS 253
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@it.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HbK-TTnL1Dog-wKCowjLrKsx5ECIt2uxBsdGfeWG6kQ&sid=7bbf811a&sni=metrika.yandex.ru#🇮🇹 [IT] VLESS 253
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@76.164.203.135:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com#🇪🇸 [ES] VLESS 191
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@76.164.203.141:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com#🇪🇸 [ES] VLESS 192
 vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.31:443?encryption=none&flow=xtls-rprx-vision&pbk=QLh2Y5Ig7pncEIvOYpZlLH2rUHZ3CRuyAo1A_emWZQU&security=reality&sid=3ba10d9ce34380c9&sni=www.google.com&type=tcp&fp=chrome#🇬🇧 [GB] VLESS 1474
