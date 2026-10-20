@@ -5,8 +5,6 @@
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
 ss://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?security=reality&encryption=none&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=blog.api.www.cloudflare.com&sid=f8#🇺🇸 [US] SS 1572
-ss://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc&fp=chrome#🇳🇱 [NL] SS 1615
-ss://4476ca08-bdb4-41c1-bae4-a960bdb28c19@45.74.158.57:2218?security=reality&amp%3Bencryption=none&amp%3Bpbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=www.apple.com&amp%3Bsid=cc80ef&fp=chrome#🇹🇷 [TR] SS 156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546?fp=chrome#🇷🇴 [RO] SS 536653~
 ss://YWVzLTEyOC1nY206MzY1M2E4ZTdkNDk1NmI1MjNlMThkYjQ3ZTc0OWFmMzA@62.210.26.134:12571?fp=chrome#🇫🇷 [FR] SS 401556~
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443?fp=chrome#🇯🇵 [JP] SS 160804~
