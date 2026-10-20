@@ -1,7 +1,7 @@
 #profile-title: base64:bGlicmU=
 #profile-update-interval: 1
 #support-url: https://t.me/IFakeNews
-#profile-web-page-url: https://fakeonomics.online
+#profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&flow=xtls-rprx-vision#🇷🇺 [RU] VLESS 1508
