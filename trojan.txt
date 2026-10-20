@@ -6,6 +6,7 @@
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&sni=de9.dedushka.top&alpn=http%2F1.1&fp=chrome#🇷🇴 [RO] TROJAN 1784~
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.200:443?security=tls&sni=de7.dedushka.top&fp=chrome#🇷🇴 [RO] TROJAN 1791~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.117:443?sni=de8.dedushka.top&type=tcp&fp=chrome#🇷🇴 [RO] TROJAN 1840
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&sni=de10.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#🇷🇴 [RO] TROJAN 1810
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#🇺🇸 [US] TROJAN 307704~
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de1.dedushka.top:443?security=tls&sni=de1.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 792626~
