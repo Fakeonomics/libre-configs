@@ -76,6 +76,3 @@ vless://0be0a2bf-aa20-4e52-aa5a-3d59d56b1582@31.77.28.118:2083?security=reality&
 vless://a4347760-38d3-4997-a2de-d6313c9d04cc@3.131.98.27:443?sni=www.microsoft.com&sid=8aa2f8fa7fc4d92a&security=reality&type=tcp&spx=%2F&flow=xtls-rprx-vision&pbk=xeRwFvpeUh3DMttSCuBwQU3M0L-m44O3Q-6R0z2Oknc&fp=chrome#🇺🇸 [US]
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.58.21:443?flow=xtls-rprx-vision&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sni=www.amazon.com&type=tcp#🇺🇸 [US]
 vless://07104d25-afc5-4b3b-a871-c729c57de047@86.109.75.132:443?flow=xtls-rprx-vision&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&security=reality&sni=usa.nodelife.ru&type=tcp&fp=chrome#🇺🇸 [US]
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.58.21:443?flow=xtls-rprx-vision&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sni=www.amazon.com&type=tcp#🇺🇸 [US]
-vless://07104d25-afc5-4b3b-a871-c729c57de047@86.109.75.132:443?flow=xtls-rprx-vision&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&security=reality&sni=usa.nodelife.ru&type=tcp&fp=chrome#🇺🇸 [US]
-vless://eae4af7f-0a0c-4af9-8f5f-b7dd403e59d5@136.175.179.94:8444?fp=chrome&security=none&type=tcp#🇺🇸 [US]
