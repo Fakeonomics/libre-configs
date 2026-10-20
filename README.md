@@ -4,21 +4,21 @@
 
 Обновление подписок каждые 3 часа.
 
-- Обновлено: **2026-10-20 12:10:26 UTC**
-- Всего конфигов в базе: **82970**
-- Живых (прошли проверку): **1858**
-- Уникальных хостов: **1283**
+- Обновлено: **2026-10-20 12:30:07 UTC**
+- Всего конфигов в базе: **83082**
+- Живых (прошли проверку): **1941**
+- Уникальных хостов: **1319**
 - Из автопарсеров: **15240**
-- Подтверждено вручную пользователем: **49**
+- Подтверждено вручную пользователем: **42**
 
 ## Подписки
 
 | Подписка | Конфигов | Протоколы | Описание | Ссылка |
 |---|---|---|---|---|
-| `special/anchor` | 300 | vless: 275, trojan: 9, vmess: 8, ss: 5, hysteria2: 3 | VLESS+Reality по подтверждённым паттернам | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor) |
-| `stable.txt` | 300 | vless: 275, trojan: 9, vmess: 8, ss: 5, hysteria2: 3 | то же, что основная | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt) |
-| `liber` | 300 | vless: 275, trojan: 9, vmess: 8, ss: 5, hysteria2: 3 | всё, без потолка | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber) |
-| `ru.txt` | 60 | vless: 58, hysteria2: 1, ss: 1 | RU-выход отдельной подпиской | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ru.txt) |
+| `special/anchor` | 278 | vless: 253, trojan: 9, vmess: 8, ss: 5, hysteria2: 3 | VLESS+Reality по подтверждённым паттернам | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor) |
+| `stable.txt` | 278 | vless: 253, trojan: 9, vmess: 8, ss: 5, hysteria2: 3 | то же, что основная | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt) |
+| `liber` | 278 | vless: 253, trojan: 9, vmess: 8, ss: 5, hysteria2: 3 | всё, без потолка | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber) |
+| `ru.txt` | 54 | vless: 52, hysteria2: 1, ss: 1 | RU-выход отдельной подпиской | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ru.txt) |
 | `vless.txt` | 250 | vless: 227, trojan: 9, vmess: 6, ss: 5, hysteria2: 3 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vless.txt) |
 | `vmess.txt` | 250 | vless: 227, trojan: 9, vmess: 6, ss: 5, hysteria2: 3 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vmess.txt) |
 | `trojan.txt` | 250 | vless: 227, trojan: 9, vmess: 6, ss: 5, hysteria2: 3 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/trojan.txt) |
