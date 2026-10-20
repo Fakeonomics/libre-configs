@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-20 18:00:03",
-  "total": 83855,
+  "checked_at": "2026-10-20 18:10:05",
+  "total": 83891,
   "alive": 1893,
   "unique_hosts": 1303,
-  "from_parsers": 15392,
+  "from_parsers": 15428,
   "rank_hosts": 1649,
   "rank_ok": 524,
   "rank_sustained": 403,
@@ -13,7 +13,7 @@
   "subscriptions": {
     "special/anchor": 234,
     "stable.txt": 234,
-    "liber": 274,
+    "liber": 277,
     "ru.txt": 52,
     "vless.txt": 250,
     "vmess.txt": 6,

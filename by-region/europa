@@ -34,6 +34,8 @@ vless://d91783af-69e5-4293-9e68-8aad10f29080@wpbkgi5ov.vpvr4ib84nuv6hdkt.ru:3392
 vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?type=tcp&security=reality&fp=firefox&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&sid=bfe58beb41f1d09f&sni=www.apple.com#🇫🇷 [FR] VLESS 177
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=tcp#🇮🇹 [IT] VLESS 182
 vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?type=grpc&security=reality&encryption=none&sni=perf-prod.samsung.com&serviceName=grpc_common2&fp=chrome&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&sid=df&spx=%2F3f9d322afd1602c#🇫🇷 [FR] VLESS 1610~
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@212.74.39.236:2052?security=none&encryption=none&sni=edge10.cyrionflare.com&fp=chrome#🇬🇧 [GB] VLESS 120✓
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?security=none&encryption=none&fp=chrome#🇬🇧 [GB] VLESS 1438✓
 ss://YWVzLTEyOC1nY206MzY1M2E4ZTdkNDk1NmI1MjNlMThkYjQ3ZTc0OWFmMzA@62.210.26.134:12571?fp=chrome#🇫🇷 [FR] SS 401556~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@82.108.206.139:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇬🇧 [GB] VLESS 623000~
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?encryption=none&fp=chrome#🇬🇧 [GB] VLESS 460738~
