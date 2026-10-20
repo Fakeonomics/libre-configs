@@ -1,0 +1,5 @@
+#profile-title: base64:bGlicmU=
+#profile-update-interval: 1
+#support-url: https://t.me/IFakeNews
+#profile-web-page-url: https://fakeonomics.online
+#routing-enable: 5
