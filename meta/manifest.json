@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-20T03:00:50Z",
+  "updated": "2026-10-20T03:10:23Z",
   "tiers": {
     "all": 500,
-    "good": 339,
+    "good": 338,
     "speed": 60,
     "stable": 120,
-    "white": 267,
+    "white": 268,
     "ru": 48
   },
   "protocols": {
@@ -16,5 +16,5 @@
     "trojan": 1,
     "hysteria2": 1
   },
-  "sha256": "6dd4a8fc39eb4c7bbd6fb0196bd0c8a3699e39bb2b54acd912a9ea8b7a2e9428"
+  "sha256": "23328db398404ba52213fcfe0a5a531186cc1e61f33c2cfe86fd6e920d65ecd9"
 }
