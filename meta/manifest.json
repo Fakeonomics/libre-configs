@@ -1,10 +1,11 @@
 {
-  "updated": "2026-10-20T03:30:04Z",
+  "updated": "2026-10-20T03:35:27Z",
   "tiers": {
     "all": 502,
     "good": 340,
     "speed": 60,
     "stable": 120,
+    "best": 502,
     "white": 269,
     "ru": 48
   },
