@@ -4,7 +4,6 @@
 #profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
-ss://1a11d3a8-f327-4f97-81b2-f776c138dec7@45.128.60.127:443?security=reality&encryption=none&pbk=kb93iSFmgqH_hIEAL15LZdrB9E-QfGFYG1mspAYJUzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com&sid=557d83da1a36996f#🇺🇸 [US] SS 1462
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546?fp=chrome#🇷🇴 [RO] SS 536653~
 ss://YWVzLTEyOC1nY206MzY1M2E4ZTdkNDk1NmI1MjNlMThkYjQ3ZTc0OWFmMzA@62.210.26.134:12571?fp=chrome#🇫🇷 [FR] SS 401556~
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443?fp=chrome#🇯🇵 [JP] SS 160804~
