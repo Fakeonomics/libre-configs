@@ -23,8 +23,13 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.1.221.39:443?type=ws&security=t
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.14.97.217:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇳🇴 [NO] VLESS 1822~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@213.226.71.16:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 2230~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@213.165.37.102:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=safari#🇳🇱 [NL] VLESS 2231~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@94.20.154.66:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇳 [AZ] VLESS 2373~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@76.13.188.13:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇲🇾 [MY] VLESS 2369~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.93.219.9:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇸🇬 [SG] VLESS 2366~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@142.91.109.211:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇯🇵 [JP] VLESS 2375~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.171:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇻🇳 [VN] VLESS 2374~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@134.185.100.238:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇰🇷 [KR] VLESS 2371~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@23.158.233.2:2096?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 2372~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇵🇱 [PL] VLESS 2350~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@41.216.182.98:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40VPNine1-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇸🇪 [SE] VLESS 2353~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@178.208.86.182:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇷🇸 [RS] VLESS 2345~
@@ -349,8 +354,3 @@ vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112?type=tcp&securi
 hy2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076?sni=scrap.halyvanedorogo.ru&fp=chrome#🇵🇱 [PL] HYSTERIA2 2150
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6MCwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjE4MDAwLCJwcyI6IvCfh6jwn4emIFtDQV0gVk1FU1MgMTI5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?fp=chrome#🇨🇦 [CA] SS 2035
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?fp=chrome#🇬🇧 [GB] SS 2023
-hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online&fp=chrome#🇯🇵 [JP] HYSTERIA2 2223
-vless://ad9a39c7-00ca-4ba5-b232-1e9bd9aee957@sakura.proxy.rlwy.net:31992?encryption=none&security=none&type=tcp&fp=chrome#🇺🇸 [US] VLESS 2227
-hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 2200
-vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuvCfh7ggW1VTXSBWTUVTUyA4NjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==

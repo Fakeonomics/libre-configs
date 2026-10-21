@@ -33,6 +33,7 @@ vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.58.21:443?security=reality&
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t15.qifei.app:443?security=reality&encryption=none&sni=www.amazon.com&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&flow=xtls-rprx-vision#🇺🇸 [US] VLESS 474468~
 vless://d91783af-69e5-4293-9e68-8aad10f29080@143.246.213.128:443?security=reality&encryption=none&sni=md.xenovpn.top&fp=firefox&pbk=KN5Hn9xnsRTCb59M7IZWRLVVALHiiYutZ_knELXmSzU&sid=3d2dfff625978b62&flow=xtls-rprx-vision#🇺🇸 [US] VLESS 304555~
 vless://d91783af-69e5-4293-9e68-8aad10f29080@md.xenovpn.top:443?security=reality&encryption=none&sni=md.xenovpn.top&fp=firefox&pbk=KN5Hn9xnsRTCb59M7IZWRLVVALHiiYutZ_knELXmSzU&sid=3d2dfff625978b62&flow=xtls-rprx-vision#🇺🇸 [US] VLESS 667601~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@23.158.233.2:2096?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 2372~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.92.182.106:2083?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#🇺🇸 [US] VLESS 2351
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@207.246.105.197:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 2358~
 vless://ad9a39c7-00ca-4ba5-b232-1e9bd9aee957@sakura.proxy.rlwy.net:31992?encryption=none&security=none&type=tcp&fp=chrome#🇺🇸 [US] VLESS 2227
@@ -78,7 +79,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.190:443?type=ws&security
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.227:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 798154~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@207.57.133.165:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 380493~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@208.68.180.204:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 479080~
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@23.158.233.2:2096?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 408063~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.76.96.60:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 696754~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.147.163.239:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 934942~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.55.199.128:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 830712~

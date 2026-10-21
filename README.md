@@ -4,18 +4,18 @@
 
 Обновление подписок каждые 3 часа.
 
-- Обновлено: **2026-10-21 12:00:12 UTC**
-- Всего конфигов в базе: **83410**
+- Обновлено: **2026-10-21 12:10:39 UTC**
+- Всего конфигов в базе: **83412**
 - Живых (прошли проверку): **2172**
 - Уникальных хостов: **1402**
-- Из автопарсеров: **17519**
+- Из автопарсеров: **17521**
 
 ## Подписки
 
 | Подписка | Конфигов | Протоколы | Описание | Ссылка |
 |---|---|---|---|---|
-| `special/anchor` | 350 | vless: 219, ss: 106, trojan: 17, vmess: 4, hysteria2: 4 | проверенные конфиги + доверенные источники | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor) |
-| `stable.txt` | 350 | vless: 219, ss: 106, trojan: 17, vmess: 4, hysteria2: 4 | то же, что основная | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt) |
+| `special/anchor` | 350 | vless: 223, ss: 105, trojan: 17, vmess: 3, hysteria2: 2 | проверенные конфиги + доверенные источники | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor) |
+| `stable.txt` | 350 | vless: 223, ss: 105, trojan: 17, vmess: 3, hysteria2: 2 | то же, что основная | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt) |
 | `liber` | 584 | vless: 404, ss: 134, trojan: 26, hysteria2: 10, vmess: 10 | всё, без потолка | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber) |
 | `ru.txt` | 60 | vless: 57, ss: 2, hysteria2: 1 | RU-выход отдельной подпиской | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ru.txt) |
 | `vless.txt` | 250 | vless: 250 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vless.txt) |
