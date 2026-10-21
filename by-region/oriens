@@ -12,9 +12,7 @@ vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?secu
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?security=reality&encryption=none&sni=www.kaidee.com&host=www.kaidee.com&fp=chrome&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&sid=cbd39bea0805e2&flow=xtls-rprx-vision#🇯🇵 [JP] VLESS 793822~
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?security=reality&encryption=none&sni=cdn-dynmedia-1.microsoft.com&fp=chrome&pbk=QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc&sid=aae6d935&flow=xtls-rprx-vision#🇸🇬 [SG] VLESS 797532~
 vless://b2332eff-b231-4c10-8552-5dfad84f5521@162.128.44.254:36000?security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=X_RnxIw_MpC_qCMcsgM3CDcPx2y6LGVl7UMms0IxOkI&sid=8cd87cd0dcc86b9f&flow=xtls-rprx-vision#🇸🇬 [SG] VLESS 948162~
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?type=tcp&security=reality&fp=firefox&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&sni=www.samsung.com#🇳🇱 [NL] VLESS 2068
 vless://7d0fd363-16d2-43ce-9d6d-ed2c15d2cb7c@51.15.16.68:2053?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=Zotx4F9CI6_q9yeKCKIHDjwzCv_Aq7WSo7N0Zc1A6Sc&sid=3c99c85cbb6b3b44&type=tcp#🇳🇱 [NL] VLESS 1751
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.11.187.33:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇳🇱 [NL] VLESS 2077
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443?fp=chrome#🇯🇵 [JP] SS 160804~
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80?fp=chrome#🇯🇵 [JP] SS 669414~
 ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY@191.223.221.53:8388?fp=chrome#🇯🇵 [JP] SS 995160~

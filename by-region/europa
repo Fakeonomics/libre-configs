@@ -9,16 +9,13 @@ vless://07104d25-afc5-4b3b-a871-c729c57de047@2.27.248.195:443?flow=xtls-rprx-vis
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@ww2.levikogjgfdd.ir:443?flow=xtls-rprx-vision&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#🇩🇪 [DE] VLESS 1414
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@93.127.223.238:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 1943~
 vless://06d4d001-4168-4876-9416-7caecf578f40@178.105.168.171:9443?type=tcp&security=reality&fp=chrome&pbk=OvEpExEu-A6ZRSO1BddxIrQVCvLNcHCVlVpb8Gxzcxs&sid=cacf9459&sni=explore.amd.com#🇩🇪 [DE] VLESS 2013
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.166.164.73:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 2072
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@63.186.127.80:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 1877~
 vless://06d4d001-4168-4876-9416-7caecf578f40@178.105.168.171:1816?type=tcp&security=reality&fp=chrome&pbk=E-qYzfigUKGAQQeNwMr8lrG11baLfNMZjSYaqTt-yz8&sid=d864e5f6a6b1f347&sni=ekranmardomi.ir#🇩🇪 [DE] VLESS 2014
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@77.239.104.229:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 2075
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@77.91.66.41:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 1792~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.230.44.140:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&alpn=http/1.1&fp=chrome#🇩🇪 [DE] VLESS 2064~
 vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?type=ws&security=tls&encryption=none&sni=Site.check-looks.space&path=%2F&alpn=h2%2Chttp/1.1&fp=chrome#🇩🇪 [DE] VLESS 1945~
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp&packetEncoding=xudp&fp=chrome#🇩🇪 [DE] VLESS 1448✓
 vless://06d4d001-4168-4876-9416-7caecf578f40@178.105.168.171:1894?type=tcp&security=reality&fp=chrome&pbk=j3668j3KcON22GVcooCUbKadsRPu3-b8bpGxBZnkEQs&sid=57d37a396b6a5db5&sni=salehin.ir#🇩🇪 [DE] VLESS 2015
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@72.56.106.210:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 2076
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@87.120.126.131:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 2014~
 vless://36b98b4a-fc76-4738-bd7d-274ca800c8fd@135.125.248.200:27250?type=grpc&security=reality&encryption=none&sni=image.samsung.com&serviceName=grpc_common1&fp=chrome&pbk=bqV9CFadimhl6zgliRrOdx-XoJ0vioLqmwxU4tWjTgc&sid=8d1e96&mode=gun&spx=%2Fa503c6774f9b5b2#🇩🇪 [DE] VLESS 550094~
 vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@de-03.avroraservice.online:8443?type=xhttp&security=reality&encryption=none&sni=cdn-de.cahmes.space&path=%2Fxhttp&fp=chrome&pbk=LP7yXSC50lHfxW-BuRQ3OLDBNncF2KVnMgVJuX9XR2w&sid=35cd2022241da999&mode=stream-one#🇩🇪 [DE] VLESS 677849~
