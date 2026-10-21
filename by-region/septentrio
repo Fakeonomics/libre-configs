@@ -40,7 +40,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.143.182.82:443?&security=tls&fp=
 vless://381f7080-8f2c-49db-8321-dae85bee2115@9.247.34.134:8443?encryption=none&type=grpc&security=reality&sni=www.rutube.ru&pbk=KXrPtOUvDVBzcpniQ5Q9hLbuo99B0g5pz97oVJn0LGk&sid=50c503221adcb931&spx=%2F&serviceName=api.v1.Sync&fp=chrome#🇺🇸 [US] VLESS 1905
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@177.1.187.183:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇺🇸 [US] VLESS 2070
 vless://0af34045-3d5e-4abe-bc8a-16e356daa214@50.7.28.211:443?fp=firefox&security=tls&sni=api-v3-0af34045.vmagnum.win&type=xhttp#🇺🇸 [US] VLESS 2266
-vless://a346c521-7a7f-452b-9356-a4893feb5982@200.165.231.138:8444?type=grpc&security=reality&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0&sni=github.com&serviceName=GunService#🇺🇸 [US] VLESS 2263
+vless://a346c521-7a7f-452b-9356-a4893feb5982@200.165.231.138:8444?encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc&fp=firefox#🇺🇸 [US] VLESS 2263
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@us-4bf85a22b1.shamanapp.online:10453?type=grpc&security=reality&encryption=none&sni=www.google.com&serviceName=TunService&fp=chrome&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc#🇺🇸 [US] VLESS 1848~
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443?fp=chrome#🇺🇸 [US] SS 1880
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443?fp=chrome#🇺🇸 [US] SS 2016

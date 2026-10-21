@@ -44,6 +44,7 @@ hy2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-reset-club
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.179:8080?fp=chrome#🇳🇱 [NL] SS 1900
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?fp=chrome#🇳🇱 [NL] SS 2017
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080?fp=chrome#🇳🇱 [NL] SS 1953
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.167.151.85:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇸🇬 [SG] VLESS 2448~
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080?fp=chrome#🇳🇱 [NL] SS 2013
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080?fp=chrome#🇳🇱 [NL] SS 1824
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080?fp=chrome#🇳🇱 [NL] SS 1940
@@ -51,8 +52,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080?fp=chrome#🇳🇱 [NL] SS 1851
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.232.173.161:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇸🇬 [SG] VLESS 2390~
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080?fp=chrome#🇳🇱 [NL] SS 1796
-vless://3b1fa839-2cb9-4511-9711-08800450aea3@195.189.98.121:443?mode=gun&security=reality&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&fp=chrome&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=085f6d90#🇳🇱 [NL] VLESS 2313
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#🇳🇱 [NL] VLESS 2260
+vless://3b1fa839-2cb9-4511-9711-08800450aea3@195.189.98.121:443?fp=firefox&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&security=reality&serviceName=BookCatalog&sid=085f6d90&sni=reg.jarbook.net&type=grpc#🇳🇱 [NL] VLESS 2313
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#🇳🇱 [NL] VLESS 2260
 vless://22136b20-6365-4ae6-b21a-799a00ab1346@ss3.soreanapanel.com:8080?security=reality&encryption=none&sni=graphs.4cdn.de&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&fp=firefox&pbk=t_z1GMEv2FYr0Bo57WBuKRRlkyOMj40025j-OcWCtkU&sid=8d542c72c84f&spx=%2F929574c99a2f206#🇳🇱 [NL] VLESS 2325~
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080?fp=chrome#🇳🇱 [NL] SS 1902
 vless://b4ce2452-5f71-4137-8cf9-0467ca5b07b0@213.189.8.10:8030?security=reality&encryption=none&sni=race.egistration.ir&fp=firefox&pbk=yNCiWHU2y1M-cWl5jJLfSDwwYM_9gdP5sqBLANxxdAs&sid=38dda82955d5791e#🇳🇱 [NL] VLESS 2250~
@@ -71,7 +72,6 @@ vless://22136b20-6365-4ae6-b21a-799a00ab1346@77.238.234.170:8080?fp=firefox&pbk=
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443?fp=chrome#🇯🇵 [JP] SS 160804~
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80?fp=chrome#🇯🇵 [JP] SS 669414~
 ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY@191.223.221.53:8388?fp=chrome#🇯🇵 [JP] SS 995160~
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.167.151.85:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇸🇬 [SG] VLESS 968095~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.195.191.121:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇸🇬 [SG] VLESS 846067~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@128.1.186.63:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇸🇬 [SG] VLESS 153409~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.193.183.187:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇯🇵 [JP] VLESS 815849~

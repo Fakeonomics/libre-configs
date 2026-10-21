@@ -1,6 +1,7 @@
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?sni=pl2.dedushka.top&type=tcp&fp=chrome#🇵🇱 [PL] TROJAN 1957
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#🇵🇱 [PL] TROJAN 1849
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#🇵🇱 [PL] TROJAN 1876
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.182:443?security=tls&sni=pl1.dedushka.top&type=tcp&headerType=none&fp=chrome#🇵🇱 [PL] TROJAN 2454
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http%2F1.1&type=tcp&headerType=none&fp=chrome#🇷🇴 [RO] TROJAN 1848
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?sni=de12.dedushka.top&type=tcp&fp=chrome#🇷🇴 [RO] TROJAN 1888
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=chrome#🇱🇻 [LV] TROJAN 1914
