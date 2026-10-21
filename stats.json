@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-21 07:00:08",
-  "total": 82729,
-  "alive": 2018,
+  "checked_at": "2026-10-21 07:01:01",
+  "total": 82797,
+  "alive": 2025,
   "unique_hosts": 1370,
-  "from_parsers": 17344,
+  "from_parsers": 17412,
   "rank_hosts": 22059,
   "rank_ok": 649,
   "rank_sustained": 548,
