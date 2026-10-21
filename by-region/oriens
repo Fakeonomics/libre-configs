@@ -20,6 +20,7 @@ vless://b2332eff-b231-4c10-8552-5dfad84f5521@162.128.44.254:36000?security=reali
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 1812
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 2200
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?fp=chrome#🇳🇱 [NL] VLESS 1689
+vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443?encryption=none&type=ws&path=%2F&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=chrome#🇳🇱 [NL] VLESS 2412
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.133.17.250:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇳🇱 [NL] VLESS 2391~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@43.174.195.1:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#🇸🇬 [SG] VLESS 2401
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@109.176.19.244:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇸🇬 [SG] VLESS 2394~
