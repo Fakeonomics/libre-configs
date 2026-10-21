@@ -63,4 +63,4 @@ vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@72.56.241.75:1443?type=grpc&securit
 vless://2620fca9-2d47-0082-b51a-50ff5ed307d3@209.182.100.216:8443?security=reality&encryption=none&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778#🇷🇺 [RU] VLESS 1760~
 vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@79.137.192.13:8443?type=xhttp&security=reality&encryption=none&sni=cdn-pl.cahmes.space&path=%2Fxhttp&fp=firefox&pbk=upBeYE6Fyy46znMKXx-jkC66hAgARHcwYIdjNB4yXl8&sid=a7a3b3ffe0572fce#🇷🇺 [RU] VLESS 2165~
 vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@176.124.223.176:8443?type=xhttp&security=reality&encryption=none&sni=cdn-nl.cahmes.space&path=%2Fxhttp&fp=firefox&pbk=R3xeImGP5Bsx42LkRruIs3vIKHnPVR9aodbouAiemzM&sid=d73a212e98084d3b#🇷🇺 [RU] VLESS 164981~
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇷🇺 [RU] VLESS 692595~
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.33.143:18443?fp=chrome#🇷🇺 [RU] SS 757109~
