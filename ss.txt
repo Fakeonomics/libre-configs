@@ -4,7 +4,7 @@
 #profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
-ss://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc&fp=chrome#🇳🇱 [NL] SS 2061
+ss://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#🇺🇸 [US] SS 1761
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546?fp=chrome#🇷🇴 [RO] SS 536653~
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443?fp=chrome#🇯🇵 [JP] SS 160804~
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80?fp=chrome#🇯🇵 [JP] SS 669414~
