@@ -9,7 +9,6 @@ vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.196:443?security=reality
 vless://4HqptXtMlj8IT2@89.127.210.40:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=onlycats.photos&fp=chrome&pbk=wYnBI1xzD8pqAN7xyI8OKotC_Eo2Vz-z08fI5suWQFU&sid=54f1c973&type=tcp&headerType=none#🇩🇪 [DE] VLESS 2002
 vless://20dd9433-389e-4573-ba7b-689619cf13da@89.169.53.176:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=YIyohkkCU5kw6J5iZYZkhILyDwlfftFPDTkbITlrAUw&sid=df3aff719526dc5a&sni=gateway.icloud.com#🇩🇪 [DE] VLESS 1946
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@ww2.levikogjgfdd.ir:443?flow=xtls-rprx-vision&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&security=reality&sid=85c86a9863&sni=www.intel.com&type=tcp#🇩🇪 [DE] VLESS 1414
-vless://07104d25-afc5-4b3b-a871-c729c57de047@2.27.248.195:443?security=reality&encryption=none&sni=ded.remnahoysry.ru&fp=firefox&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&flow=xtls-rprx-vision#🇩🇪 [DE] VLESS 883786~
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=%2Fvless%2F&host=ov-germany1.09vpn.com&sni=ov-germany1.09vpn.com&fp=chrome#🇩🇪 [DE] VLESS 1889
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008?fp=chrome#🇩🇪 [DE] SS 1816
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.166.164.73:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 2072
@@ -28,6 +27,7 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001?fp=chrome#🇩�
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?security=tls&type=ws&path=%2F&alpn=h3%2Ch2%2Chttp%2F1.1&sni=sino.bestsellers1.site&fp=chrome&encryption=none#🇩🇪 [DE] VLESS 1885
 vless://06d4d001-4168-4876-9416-7caecf578f40@178.105.168.171:9443?type=tcp&security=reality&fp=chrome&pbk=OvEpExEu-A6ZRSO1BddxIrQVCvLNcHCVlVpb8Gxzcxs&sid=cacf9459&sni=explore.amd.com#🇩🇪 [DE] VLESS 2013
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&type=tcp&packetEncoding=xudp&fp=chrome#🇩🇪 [DE] VLESS 1448✓
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.160.59.198:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 2204
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?security=tls&sni=sino.bestsellers1.site&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=0#🇩🇪 [DE] VLESS 1836
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@89.127.210.245:2053?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 1967
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@152.53.127.16:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 1802
@@ -47,6 +47,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.208.172.85:8443?type=ws&securit
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.230.44.200:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 909314~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.201.21.127:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 623454~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.28.42.209:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 492479~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@213.226.71.16:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 273227~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.134.38.133:2053?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 659815~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.95.0.43:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 952264~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@82.39.212.230:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 210604~
@@ -64,7 +65,6 @@ vless://408c51e8-9246-483d-ba73-34ab4e202eb9@it.song69.fun:443?encryption=none&t
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#🇪🇸 [ES] VLESS 210
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&security=reality&sid=e6&sni=passport.yandex.ru&type=tcp&fp=chrome#🇫🇷 [FR] VLESS 1637
 vless://897d47f8-4dd5-42a1-bcd0-bef19caff55a@193.238.154.78:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=e93d46ee3735069e&pbk=4eE3K8Eac-ELze-LwRyJolqmhPqgCVqwQM1DKu6i0Ts#🇪🇸 [ES] VLESS 1768
-vless://2bd52191-43de-4599-9dfb-cce2aa2376f4@196.245.52.137:443?security=reality&encryption=none&sni=c767c1t.es4.h1clayd.click&fp=firefox&pbk=GN4AEVtNr9F6ch-QWphclIEUfvc-mefe74-6PREP_AM&sid=b3fd8b071e1399bb&flow=xtls-rprx-vision#🇪🇸 [ES] VLESS 392711~
 vless://d91783af-69e5-4293-9e68-8aad10f29080@82.22.77.130:3392?security=reality&encryption=none&sni=wpbkgi5ov.vpvr4ib84nuv6hdkt.ru&fp=firefox&pbk=wPF9d5XUn72iK3bLARPtWvjsJAxf8zrnxjxVKok7Zwg&sid=8ed58148fe8b10a7&flow=xtls-rprx-vision#🇫🇷 [FR] VLESS 285785~
 vless://d91783af-69e5-4293-9e68-8aad10f29080@wpbkgi5ov.vpvr4ib84nuv6hdkt.ru:3392?security=reality&encryption=none&sni=wpbkgi5ov.vpvr4ib84nuv6hdkt.ru&fp=firefox&pbk=wPF9d5XUn72iK3bLARPtWvjsJAxf8zrnxjxVKok7Zwg&sid=8ed58148fe8b10a7&flow=xtls-rprx-vision#🇫🇷 [FR] VLESS 753711~
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999?fp=chrome#🇬🇧 [GB] SS 1920
@@ -76,7 +76,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080?fp=chrome#🇬🇧 [GB] SS 1843
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080?fp=chrome#🇬🇧 [GB] SS 1956
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080?fp=chrome#🇬🇧 [GB] SS 1837
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22223?encryption=none&security=none&type=tcp&fp=chrome#🇬🇧 [GB] VLESS 1970~
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22223?encryption=none&security=none&type=tcp&fp=chrome#🇬🇧 [GB] VLESS 1970
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?fp=chrome#🇬🇧 [GB] SS 1951
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443?fp=chrome#🇬🇧 [GB] SS 1905
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080?fp=chrome#🇬🇧 [GB] SS 1805
@@ -144,7 +144,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:808
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080?fp=chrome#🇬🇧 [GB] SS 1800
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?fp=chrome#🇬🇧 [GB] SS 1952
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080?fp=chrome#🇬🇧 [GB] SS 1907
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22222?encryption=none&security=none&type=tcp&fp=chrome#🇬🇧 [GB] VLESS 1756~
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22222?encryption=none&security=none&type=tcp&fp=chrome#🇬🇧 [GB] VLESS 1756
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080?fp=chrome#🇬🇧 [GB] SS 1878
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22224?encryption=none&security=none&type=tcp&fp=chrome#🇫🇷 [FR] VLESS 1875
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?fp=chrome#🇬🇧 [GB] SS 1881
@@ -189,4 +189,3 @@ vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?type=grpc&secur
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@212.74.39.236:2052?security=none&encryption=none&sni=edge10.cyrionflare.com&fp=chrome#🇬🇧 [GB] VLESS 665806~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@82.108.206.139:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇬🇧 [GB] VLESS 623000~
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.184.235:22223?security=none&encryption=none&fp=chrome#🇫🇷 [FR] VLESS 574515~
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22224?security=none&encryption=none&fp=chrome#🇬🇧 [GB] VLESS 504187~
