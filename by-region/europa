@@ -21,11 +21,11 @@ vless://36b98b4a-fc76-4738-bd7d-274ca800c8fd@135.125.248.200:27250?type=grpc&sec
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=%2Fvless%2F&host=ov-germany1.09vpn.com&sni=ov-germany1.09vpn.com&fp=chrome#🇩🇪 [DE] VLESS 1889
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001?fp=chrome#🇩🇪 [DE] SS 2004
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.160.59.198:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 2204
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@93.127.223.238:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 1943~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@93.127.223.238:8443?path=/&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🇩🇪 [DE] VLESS 1943
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@63.186.127.80:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 1877~
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws&fp=chrome#🇩🇪 [DE] VLESS 2139
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.166.164.73:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇩🇪 [DE] VLESS 2072
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@77.91.66.41:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 1792~
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@77.91.66.41:8443?path=/&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🇩🇪 [DE] VLESS 1792
 vless://682feb0b-87c5-45f1-bc58-0a5895e0b867@ticket.bestsellersd.site:443?alpn=h2&encryption=none&fp=chrome&host=ticket.bestsellersd.site&mode=auto&path=/Meh?di=443&security=tls&sni=ticket.bestsellersd.site&type=xhttp#🇩🇪 [DE] VLESS 2746
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=125ba3&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&encryption=none#🇩🇪 [DE] VLESS 2088
 vless://3a015ed8-6fac-483b-dba9-f52ea3854a04@91.107.191.188:443?security=tls&sni=kala.bestsellers1.site&type=xhttp&host=kala.bestsellers1.site&path=%2FMeh%3Fdi%3D443&fp=chrome&alpn=h2#🇩🇪 [DE] VLESS 2314
