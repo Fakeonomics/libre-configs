@@ -5,9 +5,8 @@
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 1812
-hy2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online&fp=chrome#🇬🇧 [GB] HYSTERIA2 1918
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 2200
-hy2://b3a11068-1a7e-4643-85de-7c82cce46943@191.215.46.37:443?sni=uk.shamanapp.online&fp=chrome#🇬🇧 [GB] HYSTERIA2 1795
+hy2://b3a11068-1a7e-4643-85de-7c82cce46943@uk-d9ca48498a.shamanapp.online:443?sni=uk.shamanapp.online&fp=chrome#🇬🇧 [GB] HYSTERIA2 1918
 hysteria2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru&fp=chrome#🇫🇮 [FI] HYSTERIA2 104
 hy2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076?sni=scrap.halyvanedorogo.ru&fp=chrome#🇵🇱 [PL] HYSTERIA2 2150
 hy2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?sni=scrap.halyvanedorogo.ru&fp=chrome#🇵🇱 [PL] HYSTERIA2 2229
