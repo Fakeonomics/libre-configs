@@ -30,7 +30,6 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.200:443?security=tls&sni=d
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&sni=de5.dedushka.top&alpn=http/1.1&fp=firefox#🇷🇴 [RO] TROJAN 1904~
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.137:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=2.hi-l.im&type=ws&allowInsecure=0&sni=2.HI-L.IM&fp=chrome#🇦🇪 [AE] TROJAN 2614
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?sni=de4.dedushka.top&type=tcp&fp=chrome#🇷🇴 [RO] TROJAN 2026
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?sni=ie1.dedushka.top&type=tcp&fp=chrome#🇺🇳 [IE] TROJAN 2708
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#🇺🇸 [US] TROJAN 307704~
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?security=tls&sni=nat3.xxai.dpdns.org&host=nat3.xxai.dpdns.org&path=%2Fanyway&fp=chrome#🌐 XX TROJAN 159815~
 trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#🇺🇸 [US] TROJAN 150964~
