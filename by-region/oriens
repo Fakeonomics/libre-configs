@@ -2,6 +2,7 @@ vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@45.150.33.33:443?flow=xtls-rprx-vis
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&sni=vextor.win#🇯🇵 [JP] VLESS 2347
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@rus.puflino.com:444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&sni=vextor.win#🇯🇵 [JP] VLESS 2586
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:444?security=reality&encryption=none&sni=vextor.win&fp=firefox&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&flow=xtls-rprx-vision#🇯🇵 [JP] VLESS 2344~
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?flow=xtls-rprx-vision&fp=chrome&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp#🇸🇬 [SG] VLESS 2675
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@195.189.98.197:443?flow=xtls-rprx-vision&fp=firefox&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&security=reality&sid=b7a5c406&sni=api37.betust.net&type=tcp#🇳🇱 [NL] VLESS 2300
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@snow.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api37.betust.net&fp=chrome&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406&type=tcp&headerType=none#🇳🇱 [NL] VLESS 2297
 vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=chrome&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910#🇳🇱 [NL] VLESS 2294
@@ -60,7 +61,7 @@ vless://b1fdf506-c8da-4853-b209-9e3ca20fcfc0@104.164.55.40:443?fp=firefox&host=d
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080?fp=chrome#🇳🇱 [NL] SS 1851
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080?fp=chrome#🇳🇱 [NL] SS 1798
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?fp=chrome#🇳🇱 [NL] SS 1984
-vless://8179d7cc-82bc-4eae-a97f-5d30c6c2a812@138.124.117.113:9443?security=reality&sni=icloud.com&type=grpc&serviceName=grpc&fp=chrome&pbk=8bhS-nnIN67a292RpJsCPzXQy4CzpzOVLTPn5CiAFyg&sid=6ba7b810#🇳🇱 [NL] VLESS 2254
+vless://8179d7cc-82bc-4eae-a97f-5d30c6c2a812@138.124.117.113:9443?encryption=none&type=grpc&mode=multi&serviceName=grpc&security=reality&fp=chrome&sni=icloud.com&pbk=8bhS-nnIN67a292RpJsCPzXQy4CzpzOVLTPn5CiAFyg&sid=6ba7b810#🇳🇱 [NL] VLESS 2254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080?fp=chrome#🇳🇱 [NL] SS 1902
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080?fp=chrome#🇳🇱 [NL] SS 1824
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@195.189.98.121:443?fp=firefox&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&security=reality&serviceName=BookCatalog&sid=085f6d90&sni=reg.jarbook.net&type=grpc#🇳🇱 [NL] VLESS 2313

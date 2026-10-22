@@ -4,6 +4,7 @@
 #profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
+ss://92295a0d-b610-4075-85e9-bfab09ec6f3a@blog.salphetka.ru:443?security=reality&encryption=none&pbk=ahmKn2YPXJJ0gGtSKyEVCavB2YHyGQSbHCq40tgfHkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.uni-bonn.de&sid=e96c3d6878c984bf#🇩🇪 [DE] SS 2677
 ss://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?encryption=none&flow=xtls-rprx-vision&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&security=reality&sid=296f27de82dad7ff&sni=www.bing.com&type=tcp&fp=chrome#🇩🇪 [DE] SS 164
 ss://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇺🇸 [US] SS 564~
 ss://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bpbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&amp%3Bsecurity=reality&amp%3Bsid=3e67326f98ddb407&amp%3Bsni=gateway.icloud.com&amp%3Btype=tcp&fp=chrome#🇳🇱 [NL] SS 2337
