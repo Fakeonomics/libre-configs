@@ -53,7 +53,7 @@ vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@72.56.241.75:7443?type=grpc&securit
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.90.77:2443?encryption=none&pbk=QnKEZ1Y6NPOi-XcRC-uA8bzhfffQbswLIuGpxkBHSVs&security=reality&serviceName=grpc&sni=assets.polina.lol&type=grpc&fp=firefox#🇷🇺 [RU] VLESS 2455
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?encryption=none&security=tls&sni=xssite.webredirect.org&fp=chrome&type=grpc&serviceName=grpc-ru#🇷🇺 [RU] VLESS 1909
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@randomquaint.net:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&host=randomquaint.net&fp=firefox&type=xhttp&sni=randomquaint.net#🇷🇺 [RU] VLESS 1834
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?encryption=none&security=tls&sni=xsru1.ddnsfree.com&fp=chrome&type=grpc&serviceName=grpc-ru&mode=gun#🇷🇺 [RU] VLESS 2025
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?sni=xsru1.ddnsfree.com&type=grpc&serviceName=grpc-ru&fp=chrome&security=tls#🇷🇺 [RU] VLESS 2025
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@72.56.241.75:1443?type=grpc&security=reality&encryption=none&sni=static.nyx53.shop&serviceName=grpc&fp=chrome&pbk=vi1vP3RJQgLsRgzaiKvjr44iNRzI62lSYMipnrTMAUs&mode=gun#🇷🇺 [RU] VLESS 189~
 vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@80.66.65.251:8443?type=xhttp&security=reality&encryption=none&sni=cdn-us.cahmes.space&path=%2Fxhttp&fp=firefox&pbk=KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k&sid=6bd33a75ebc0f26e#🇷🇺 [RU] VLESS 1015~
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@82.202.137.34:9844?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&type=grpc&serviceName=grpc-tunnel#🇷🇺 [RU] VLESS 2459
