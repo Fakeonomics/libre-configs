@@ -189,7 +189,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.215:443?&security=tls&f
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.36:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#🇻🇳 [VN] VLESS 2672
 vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?encryption=none&type=ws&path=%2F&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=chrome#🇲🇾 [MY] VLESS 2413
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.45:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇧🇬 [BG] VLESS 2073
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@46.101.252.80:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🇩🇪 [DE] VLESS 2767
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.205:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#🇻🇳 [VN] VLESS 2346
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@94.20.154.66:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇺🇳 [AZ] VLESS 2373
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.20:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=fp%3Dunsafe#🇺🇸 [US] VLESS 2602
@@ -354,3 +353,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http%2F1.1&type=tcp&headerType=none&fp=chrome#🇷🇴 [RO] TROJAN 1848
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&sni=de2.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp#🇷🇴 [RO] TROJAN 1989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?fp=chrome#🇬🇧 [GB] SS 1979
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=%2Fvless%2F&host=ov-germany1.09vpn.com&sni=ov-germany1.09vpn.com&fp=chrome#🇩🇪 [DE] VLESS 1889

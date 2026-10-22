@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-10-22 17:30:54",
-  "total": 84502,
-  "alive": 2276,
+  "checked_at": "2026-10-22 18:00:10",
+  "total": 84487,
+  "alive": 2239,
   "unique_hosts": 1506,
-  "from_parsers": 19626,
-  "rank_hosts": 23696,
-  "rank_ok": 807,
-  "rank_sustained": 650,
+  "from_parsers": 19599,
+  "rank_hosts": 23687,
+  "rank_ok": 806,
+  "rank_sustained": 649,
   "user_confirmed": 3,
   "channel": "https://t.me/IFakeNews",
   "web": "https://app8967321670.tgcloud.ai/",
@@ -18,7 +18,7 @@
     "vless.txt": 250,
     "vmess.txt": 10,
     "trojan.txt": 26,
-    "ss.txt": 138,
+    "ss.txt": 139,
     "hy2.txt": 9
   },
   "by_country": {
