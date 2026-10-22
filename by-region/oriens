@@ -75,7 +75,7 @@ vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?mode=gun&secur
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws&fp=chrome#🇳🇱 [NL] VLESS 2234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080?fp=chrome#🇳🇱 [NL] SS 1959
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?encryption=none&fp=chrome&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&security=reality&sid=a09ff9f8&sni=ibm.com&type=tcp#🇳🇱 [NL] VLESS 2763
-vless://3b1fa839-2cb9-4511-9711-08800450aea3@195.189.98.121:443?type=grpc&security=reality&fp=firefox&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&sid=085f6d90&sni=reg.jarbook.net&serviceName=BookCatalog#🇳🇱 [NL] VLESS 2313
+vless://3b1fa839-2cb9-4511-9711-08800450aea3@195.189.98.121:443?fp=firefox&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&security=reality&serviceName=BookCatalog&sid=085f6d90&sni=reg.jarbook.net&type=grpc#🇳🇱 [NL] VLESS 2313
 hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?sni=vp3.yysyy.online&fp=chrome#🇯🇵 [JP] HYSTERIA2 2237
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.11.187.33:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇳🇱 [NL] VLESS 2077
 hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online&fp=chrome#🇯🇵 [JP] HYSTERIA2 2223
