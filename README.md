@@ -4,19 +4,19 @@
 
 Обновление подписок каждые 3 часа.
 
-- Обновлено: **2026-10-22 15:30:09 UTC**
-- Всего конфигов в базе: **84296**
-- Живых (прошли проверку): **2268**
+- Обновлено: **2026-10-22 16:01:48 UTC**
+- Всего конфигов в базе: **84302**
+- Живых (прошли проверку): **2245**
 - Уникальных хостов: **1500**
-- Из автопарсеров: **19612**
+- Из автопарсеров: **19626**
 
 ## Подписки
 
 | Подписка | Конфигов | Протоколы | Описание | Ссылка |
 |---|---|---|---|---|
-| `special/anchor` | 350 | vless: 254, ss: 75, trojan: 14, hysteria2: 5, vmess: 2 | проверенные конфиги + доверенные источники | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor) |
-| `stable.txt` | 350 | vless: 254, ss: 75, trojan: 14, hysteria2: 5, vmess: 2 | то же, что основная | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt) |
-| `liber` | 572 | vless: 391, ss: 131, trojan: 28, hysteria2: 11, vmess: 11 | всё, без потолка | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber) |
+| `special/anchor` | 350 | vless: 259, ss: 71, trojan: 14, hysteria2: 5, vmess: 1 | проверенные конфиги + доверенные источники | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor) |
+| `stable.txt` | 350 | vless: 259, ss: 71, trojan: 14, hysteria2: 5, vmess: 1 | то же, что основная | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt) |
+| `liber` | 581 | vless: 400, ss: 131, trojan: 28, hysteria2: 11, vmess: 11 | всё, без потолка | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber) |
 | `ru.txt` | 60 | vless: 58, hysteria2: 1, ss: 1 | RU-выход отдельной подпиской | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/ru.txt) |
 | `vless.txt` | 250 | vless: 250 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vless.txt) |
 | `vmess.txt` | 11 | vmess: 11 | по протоколу | [raw](https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/vmess.txt) |
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/special/anchor
 https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/stable.txt
 ```
 
-**Все конфиги** — `liber` (572 конфигов)
+**Все конфиги** — `liber` (581 конфигов)
 
 ```
 https://raw.githubusercontent.com/Fakeonomics/libre-configs/main/liber
