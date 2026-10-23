@@ -179,7 +179,9 @@ vless://dd688bb9-41d9-4eb7-b5eb-6175f612cdb6@n1.fazelino.site:443?alpn=http/1.1&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@vip3.kaixincloud.top:2083?security=tls&type=ws&path=%2F&host=newwk1.f1w.de5.net&sni=newwk1.f1w.de5.net&fp=chrome#🌐 XX VLESS 2879
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@84.247.155.106:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#🇯🇵 [JP] VLESS 2343
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.38.236.248:443?path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🇻🇳 [VN] VLESS 2544
+vless://b9ede7a5-5b4b-4aee-ac37-2c307e587e47@courses.mftplus.qzz.io:443?alpn=http/1.1&encryption=none&fp=chrome&host=courses.mftplus.qzz.io&path=/eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&type=ws#🌐 XX VLESS 2889
 vless://5f11c240-89df-494c-9c81-8b619023bb58@789156.xyz:443?path=%2F%3Fed%3D2048fp%3Drandomized&security=tls&encryption=none&insecure=0&host=789156.xyz&type=ws&allowInsecure=0&sni=789156.xyz&fp=chrome#🌐 XX VLESS 2888
+vless://b9ede7a5-5b4b-4aee-ac37-2c307e587e47@courses.mftplus.qzz.io:2096?security=tls&type=ws&path=/eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=courses.mftplus.qzz.io&ed=2560&packetEncoding=xudp&sni=courses.mftplus.qzz.io&fp=chrome&encryption=none#🌐 XX VLESS 2890
 vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#🇮🇱 [IL] VLESS 2356
 vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?security=reality&type=grpc&mode=gun&serviceName=grpc-common3&sni=www.nvidia.com&fp=firefox&sid=52add08b86a5ccea&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&encryption=none#🇫🇷 [FR] VLESS 1890
 vless://a346c521-7a7f-452b-9356-a4893feb5982@94.103.2.109:8451?fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#🇲🇩 [MD] VLESS 2022
@@ -352,5 +354,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8
 vless://e3026ffb-cde6-4cfe-b4b7-f76d5264e969@152.237.230.30:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=9Wh7M-tz9D_1WBaQhz2wIJian960Ffcx66NH8HAidDI&sid=61a0eb582ed4f2b5&type=tcp&headerType=none#🇦🇪 [AE] VLESS 2715
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?fp=chrome#🇬🇧 [GB] SS 1981
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080?fp=chrome#🇬🇧 [GB] SS 1906
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080?fp=chrome#🇳🇱 [NL] SS 1798
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080?fp=chrome#🇬🇧 [GB] SS 1903
