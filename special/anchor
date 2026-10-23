@@ -183,6 +183,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.160.59.198:443?&security=tls&fp
 vless://5504eaa8-1395-402f-8e0e-75ecd762e627@eu2.998998.best:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=nat9.outsidemyheart.space&path=/saosaosao&security=tls&sni=nat9.outsidemyheart.space&type=ws#🌐 XX VLESS 2925
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.192.239.107:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇳🇱 [NL] VLESS 2839
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.127.65:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇺🇸 [US] VLESS 2206
+vless://9cdcbaf0-d244-4f37-b227-90166e43f5b5@cf-socks.caoyuwu.eu.org:443?&security=tls&fp=chrome&sni=cf-socks.caoyuwu.eu.org&type=ws&headerType=none&host=cf-socks.caoyuwu.eu.org&path=%2F#🌐 XX VLESS 2959
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.148.156.160:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇺🇸 [US] VLESS 2402
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@84.32.22.205:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560fp%3Dchrome#🇸🇬 [SG] VLESS 2433
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.239.48.154:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇮🇱 [IL] VLESS 2558
@@ -260,7 +261,7 @@ vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.35.146:443?security=reality&
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@budulai.himoy.space:443?security=reality&encryption=none&pbk=mk-wqC8YgfjMc89oFsT2HSpBMYB23kMURVBiXkeFHzg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=budulai.himoy.space&sid=98c76776ef3d1f71#🇺🇸 [US] VLESS 2928
 vless://381f7080-8f2c-49db-8321-dae85bee2115@9.247.34.134:2053?encryption=none&flow=xtls-rprx-vision&pbk=q4jQTGI_WMzs_JD6zTjB9VBclYla6TEvRHiHmqbXx0w&security=reality&sid=7233902763f97bd1&sni=www.rutube.ru&type=tcp&fp=chrome#🇺🇸 [US] VLESS 2887
 vless://9ab3a362-1518-496d-b08d-eced45cec936@gb.srv.dvzh.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.srv.dvzh.net&fp=firefox&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=d30f9d846a7c8cba&type=tcp&headerType=none#🇬🇧 [GB] VLESS 2765
-vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=%2FEL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#🇫🇮 [FI] VLESS 2903
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#🇫🇮 [FI] VLESS 2903
 vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&sid=38d72071&type=tcp&headerType=none#🇸🇬 [SG] VLESS 2901
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci1.amir12.ir:1222?security=reality&type=tcp&sni=play.google.com&fp=chrome&sid=a25d0f&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE#🇫🇮 [FI] VLESS 257
 vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?type=tcp&security=reality&fp=firefox&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&sid=bfe58beb41f1d09f&sni=www.apple.com#🇫🇷 [FR] VLESS 177
@@ -353,4 +354,3 @@ vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6ImNocm9tZSIs
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999?fp=chrome#🇺🇸 [US] SS 1998
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999?fp=chrome#🇺🇸 [US] SS 1941
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?fp=chrome#🇮🇹 [IT] SS 1974
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080?fp=chrome#🇬🇧 [GB] SS 1879
