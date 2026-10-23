@@ -1,3 +1,4 @@
+vless://8e66d40e-6f62-4243-a7d8-ebe83e4c2e77@31.76.62.32:443?security=reality&encryption=none&pbk=C4kK4uxh9a5ym0-JmcaTwkUwkB0FTRjSAIlHLTKRHlo&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lv-rix-1.koolb.org&sid=84341e3e#🇺🇸 [US] VLESS 2972
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz&type=tcp&headerType=none&path=%2F#🇺🇸 [US] VLESS 2333
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=7dae9c0cs220.gogocs.xyz&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u695098u7dae9c0cs220.gogocs.xyz#🇺🇸 [US] VLESS 2335
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s170.gogocs.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&fp=chrome#🇺🇸 [US] VLESS 2334
@@ -34,7 +35,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@208.68.180.204:443?type=ws&security
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@179.255.140.73:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#🇺🇸 [US] VLESS 2665
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@143.198.99.229:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&security=tls&fp=chrome#🇺🇸 [US] VLESS 3011
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@173.249.207.192:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffp%3Dunsafe&host=snip.edgeoneai.cc.cd&fp=chrome#🇺🇸 [US] VLESS 2442~
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.207.177.113:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#🇺🇸 [US] VLESS 2447
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.80:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&security=tls&fp=chrome#🇺🇸 [US] VLESS 2843
 vless://5a96c1fc-f167-44b9-9020-8f6867537d14@2.26.106.232:8443?encryption=none&type=grpc&security=reality&sni=finland02.azotvpn.xyz&pbk=fQ1M2sO50w5A3oM55Hfs8vmZ320I8VaKdzRqeXOMMnQ&sid=07f508fe5d2355d3&fp=chrome&spx=%2F#🇺🇸 [US] VLESS 2712
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.143.182.82:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇺🇸 [US] VLESS 2069
@@ -50,7 +50,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443?fp=chrome#🇺🇸 [US] 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443?fp=chrome#🇺🇸 [US] SS 2016
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999?fp=chrome#🇺🇸 [US] SS 1998
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999?fp=chrome#🇺🇸 [US] SS 1941
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882?fp=chrome#🇺🇸 [US] SS 1935
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.18:19999?fp=chrome#🇺🇸 [US] SS 1873
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999?fp=chrome#🇺🇸 [US] SS 2003
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443?fp=chrome#🇺🇸 [US] SS 1897
