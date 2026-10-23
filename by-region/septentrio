@@ -13,7 +13,6 @@ vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=images.unsplash.com&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&sid=7da2eae792187ab9&headertype=none&fp=chrome#🇺🇸 [US] VLESS 143
 vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?security=reality&encryption=none&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=144.48.11.97&sid=725e6ea0&fp=chrome#🇺🇸 [US] VLESS 032
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&security=reality&sid=58301280&sni=metrika.yandex.ru&type=tcp#🇺🇸 [US] VLESS 2267
-vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@fin4.himoy.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=36MwbI8-ScG1RGaNp7jGe-NMOm9HfvmdMP5vfY4_P3k&sid=0c3c7a686e566de2&sni=fin4.himoy.space#🇺🇸 [US] VLESS 2930
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&sni=mother-earth.fyi&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇺🇸 [US] VLESS 2180~
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@hahahaarmenia.redemshenvpn.site:24694?type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&fp=firefox&security=reality&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280#🇺🇸 [US] VLESS 247✓
 vless://c14ec728-3eca-4750-87fc-fd1e6aeb81d5@195.123.235.183:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=H3R3BUAl7thrIZsznTbb-eRREIjQOH2f3WO0oTN7OGY&sid=a0e2a6074c6456b0&sni=gateway.icloud.com#🇺🇸 [US] VLESS 1685
@@ -59,6 +58,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443?fp=chrome#🇺🇸 [US]
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999?fp=chrome#🇺🇸 [US] SS 2003
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?fp=chrome#🇺🇸 [US] SS 1835
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@162.35.8.62:443?type=grpc&security=reality&encryption=none&sni=9bc578g.us4.h1clayd.click&serviceName=aa7f1b042f73&fp=firefox&pbk=uUWYLl2Fdhr74k9o5WacesJjvsCwLiOHccgfR23TIk4&sid=29b29106d4769e3a#🇺🇸 [US] VLESS 2922~
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@23.237.47.24:443?security=tls&fp=firefox&sni=us3.dedushka.top&alpn=http/1.1#🇺🇸 [US] TROJAN 2938
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444?fp=chrome#🇺🇸 [US] SS 444966~
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#🇺🇸 [US] TROJAN 307704~
 trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#🇺🇸 [US] TROJAN 150964~
