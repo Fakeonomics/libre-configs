@@ -201,6 +201,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@191.223.210.79:8443?sni=snip.edgeon
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.240.213.98:2053?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇺🇳 [KG] VLESS 2673
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.171:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇻🇳 [VN] VLESS 2374~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@43.254.218.158:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&fp=chrome#🇭🇰 [HK] VLESS 2592~
+ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ==@139.84.166.47:8388?fp=chrome#🇮🇳 [IN] SS 2789
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@142.91.109.211:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇯🇵 [JP] VLESS 2375~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@148.253.209.114:2096?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560fp%3Dchromefp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 2463~
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 2200

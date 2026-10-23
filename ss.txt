@@ -10,6 +10,7 @@ ss://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?encryption=none&flow=
 ss://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bpbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&amp%3Bsecurity=reality&amp%3Bsid=3e67326f98ddb407&amp%3Bsni=gateway.icloud.com&amp%3Btype=tcp&fp=chrome#🇳🇱 [NL] SS 2337
 ss://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇺🇸 [US] SS 564~
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1b3gyZTd4aWYxckNLT2lmZk9QdmliR2stS1ZYQ2s4dg==@dns5.m3hrzd.ir:8044?fp=chrome#🇳🇱 [NL] SS 2549
+ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ==@139.84.166.47:8388?fp=chrome#🇮🇳 [IN] SS 2789
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999?fp=chrome#🇬🇧 [GB] SS 1920
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080?fp=chrome#🇬🇧 [GB] SS 1985
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?fp=chrome#🇳🇱 [NL] SS 1984
