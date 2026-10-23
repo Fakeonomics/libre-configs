@@ -4,11 +4,11 @@
 #profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
-vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.31:443?encryption=none&flow=xtls-rprx-vision&pbk=QLh2Y5Ig7pncEIvOYpZlLH2rUHZ3CRuyAo1A_emWZQU&security=reality&sid=3ba10d9ce34380c9&sni=www.google.com&type=tcp&fp=chrome#🇬🇧 [GB] VLESS 1474
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.31:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QLh2Y5Ig7pncEIvOYpZlLH2rUHZ3CRuyAo1A_emWZQU&sid=3ba10d9ce34380c9&sni=www.google.com#🇬🇧 [GB] VLESS 1474
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&fp=chrome&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=6b196d2f190f32b3&sni=vkvd754.okcdn.ru&type=tcp#🇳🇱 [NL] VLESS 1030
 vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.196:443?security=reality&pbk=jwLEnDwGROadL1ax-SrVC50sE5slaP7TbGQtBxkcTws&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=c2.qwyak.ru&sid=8c9ab0f7b293f9ef#🇩🇪 [DE] VLESS 1835
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@62.105.220.106:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098u7dae9c0cs220.gogocs.xyz&type=tcp&headerType=none&path=%2F#🇺🇸 [US] VLESS 2333
-vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&fp=chrome&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp#🇮🇱 [IL] VLESS 2316
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&fp=firefox&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp#🇮🇱 [IL] VLESS 2316
 vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.162:443?flow=xtls-rprx-vision&fp=chrome&pbk=kqKpUiLtm5SPT2NO5Ss4LuH9xpTOxi79UJZWURwulwI&security=reality&sid=547f159030aedc64&sni=c1.qwyak.ru&spx=%2F&type=tcp#🇩🇪 [DE] VLESS 2651
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=7dae9c0cs220.gogocs.xyz&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u695098u7dae9c0cs220.gogocs.xyz#🇺🇸 [US] VLESS 2335
 vless://8afeb33c-b686-43e9-a629-0d98f991ec28@212.87.222.10:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=f25sygANXTpzdc9YPCwkggwSmm3piA3BluSeHdfG-hg&sni=www.nokia.com#🇫🇮 [FI] VLESS 2541
