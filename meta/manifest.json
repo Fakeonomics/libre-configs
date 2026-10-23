@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:30:09Z",
+  "updated": "2026-10-23T11:00:11Z",
   "tiers": {
     "stable": 350,
     "anchor": 350,
@@ -10,8 +10,8 @@
     "vless": 250,
     "vmess": 10,
     "ss": 141,
-    "trojan": 27,
+    "trojan": 24,
     "hysteria2": 11
   },
-  "sha256": "24b1f3d2ad3e66471a61a257d2d502d6198e10d30095ed75cdab0fe8335e6a33"
+  "sha256": "056637f8e425ae8ff7f834160bec18147f87082d53afd3321fa679f96351c05f"
 }
