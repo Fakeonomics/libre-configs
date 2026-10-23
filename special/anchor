@@ -254,6 +254,11 @@ vless://8e66d40e-6f62-4243-a7d8-ebe83e4c2e77@31.76.62.32:443?security=reality&en
 vless://92a4056a-38d6-49d0-8bd2-600e55af1e9f@45.85.117.174:443?security=reality&encryption=none&pbk=rF4J_igTFQRUXEaY351LiZG0Ea4OuNpOakuAbqT0bAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=088faf47#🇳🇱 [NL] VLESS 2977
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv2.himoy.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=AoPku9i0xSD2cCzJdPcUSSft8c_RkIZbsbP888VO938&sid=287b3d62899669d7&sni=lv2.himoy.space#🇨🇭 [CH] VLESS 2942
 vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0QDBHaCRO2dPeeSVy3B3R_U12ZOvbvWl1JTFW_ZcpD0&sid=31e91d43e553bf32&sni=gateway.icloud.com#🇷🇴 [RO] VLESS 2923
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.229:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇺🇳 [SC] VLESS 3036
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.141.17:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇹🇷 [TR] VLESS 3038
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.223.104.117:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ai.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇹🇷 [TR] VLESS 3035
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.223.104.143:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇹🇷 [TR] VLESS 3039
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.140.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ai.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#🇹🇷 [TR] VLESS 3033
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?encryption=none&security=reality&type=tcp&sni=ads.x5.ru&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=edge#🇺🇳 [BY] VLESS 3029
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#🇺🇳 [BY] VLESS 3028
 vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@45.150.33.33:443?flow=xtls-rprx-vision&fp=chrome&pbk=G8SING6Ibc_igZ5vI5578fXCT_mBMRuq_o8_Ymnj2SQ&security=reality&sid=eba1498e012ef580&sni=amazon.de&type=tcp#🇳🇱 [NL] VLESS 2024
@@ -349,8 +354,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8
 vless://682feb0b-87c5-45f1-bc58-0a5895e0b867@ticket.bestsellersd.site:443?alpn=h2&encryption=none&fp=chrome&host=ticket.bestsellersd.site&mode=auto&path=/Meh?di=443&security=tls&sni=ticket.bestsellersd.site&type=xhttp#🇩🇪 [DE] VLESS 2746
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080?fp=chrome#🇬🇧 [GB] SS 1896
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080?fp=chrome#🇳🇱 [NL] SS 1824
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080?fp=chrome#🇬🇧 [GB] SS 2028
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443?fp=chrome#🇺🇸 [US] SS 1897
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?fp=chrome#🇬🇧 [GB] SS 1827
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080?fp=chrome#🇳🇱 [NL] SS 1845
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443?fp=chrome#🇬🇧 [GB] SS 2772
