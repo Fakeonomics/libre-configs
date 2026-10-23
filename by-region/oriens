@@ -2,6 +2,7 @@ vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.61.213:443?security=reality&
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@nl5.himoy.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1cnb_l4zv5exEEuv_cYoglyW_Tk4yGl9mjzHoHzvUXA&sid=15f39a6a8150126e&sni=nl5.himoy.space#🇳🇱 [NL] VLESS 2943
 vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=chrome&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910#🇳🇱 [NL] VLESS 2294
 vless://07104d25-afc5-4b3b-a871-c729c57de047@2.26.254.102:443?security=reality&encryption=none&sni=rr.remnahoysry.ru&fp=safari&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&flow=xtls-rprx-vision#🇳🇱 [NL] VLESS 2310~
+vless://4996e22e-4b2f-4f99-b271-eb4dbc96af4a@tnl4b.trust.apruxdomain.space:443?security=reality&type=tcp&sni=tnl4b.trust.apruxdomain.space&fp=edge&flow=xtls-rprx-vision&sid=1d87ee8e4b146023&pbk=X7z9FGbRPN3EytN5fpymGPVY-dBuZp3hZNaIgCi6eEk#🇳🇱 [NL] VLESS 2958
 vless://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&flow=xtls-rprx-vision&pbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&security=reality&sid=3e67326f98ddb407&sni=gateway.icloud.com&type=tcp&fp=chrome#🇳🇱 [NL] VLESS 2337
 vless://932395ae-6528-4ca6-a44b-29c7458da314@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX5gBaqZ57BIArPg8zxl4_DWEZoAvegxdxEjHQFHfWM&security=reality&sid=dbafdfc81bc20552&sni=www.sony.co.uk&spx=/GT0om8LQmfuOmHs&type=tcp#🇳🇱 [NL] VLESS 222
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&sid=ef1d3554c652a436&sni=vkvd754.okcdn.ru#🇳🇱 [NL] VLESS 1030
@@ -47,6 +48,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.215.182.29:443?type=ws&security=
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 1812
 vless://a346c521-7a7f-452b-9356-a4893feb5982@185.130.227.19:8444?type=grpc&security=reality&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sni=github.com&serviceName=GunService#🇳🇱 [NL] VLESS 2945
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080?fp=chrome#🇳🇱 [NL] SS 1851
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@18.138.206.30:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&security=tls&fp=chrome#🇸🇬 [SG] VLESS 2954
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.179:8080?fp=chrome#🇳🇱 [NL] SS 1900
 vless://b1fdf506-c8da-4853-b209-9e3ca20fcfc0@104.164.55.40:443?alpn=h2&host=d1.awsstatic.com&mode=auto&path=%2F7ViD8D4zQr3cxOUJs9Rm2&pbk=Fv_l-a_avt80dp_HHBZJdXasboMODcTiGu60K5OjNS4&security=reality&sid=66fd576b785547&sni=d1.awsstatic.com&type=xhttp&fp=chrome#🇳🇱 [NL] VLESS 2418
 vless://41c8a7a2-298d-4edb-ab8d-4e8d8018536a@185.4.114.96:443?type=grpc&security=reality&fp=firefox&pbk=9W1WFl2qiFQ1-ylXEZ5dMKLT-ZfoNhFHL1-v8yyotCg&sid=e8a07ddc&sni=www.twitch.tv#🇳🇱 [NL] VLESS 2941
