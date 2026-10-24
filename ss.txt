@@ -7,7 +7,6 @@
 ss://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?encryption=none&flow=xtls-rprx-vision&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&security=reality&sid=296f27de82dad7ff&sni=www.bing.com&type=tcp&fp=chrome#🇩🇪 [DE] SS 164
 ss://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bpbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&amp%3Bsecurity=reality&amp%3Bsid=3e67326f98ddb407&amp%3Bsni=gateway.icloud.com&amp%3Btype=tcp&fp=chrome#🇳🇱 [NL] SS 2337
 ss://5e160c8a-7a29-437b-998d-7f6dcccc96ff@89.127.211.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX5gBaqZ57BIArPg8zxl4_DWEZoAvegxdxEjHQFHfWM&security=reality&sid=dbafdfc81bc20552&sni=www.sony.co.uk&spx=%2FGT0om8LQmfuOmHs&type=tcp#🇳🇱 [NL] SS 222
-ss://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🇺🇸 [US] SS 564~
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080?fp=chrome#🇬🇧 [GB] SS 1955
 ss://SoonTeam @de.im-soon.com:3443?type=xhttp&encryption=none&pbk=hSmC_oFWVZQ7dkhnC0UVb-3eWk-9qAO0VjG21vBnlDI&security=reality&sid=712650991ac9eb38&sni=bg-call-donation-alpha.goog&path=/Telegram-Join@SoonTeam&spx=/8209b7b9a6027cc&mode=auto&fp=chrome&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🇩🇪 [DE] SS 2562
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443?fp=chrome#🇬🇧 [GB] SS 2997
@@ -21,10 +20,8 @@ ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@141.227.172.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080?fp=chrome#🇬🇧 [GB] SS 1978
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080?fp=chrome#🇬🇧 [GB] SS 1961
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080?fp=chrome#🇬🇧 [GB] SS 1801
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080?fp=chrome#🇳🇱 [NL] SS 3121
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?fp=chrome#🇬🇧 [GB] SS 2027
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080?fp=chrome#🇬🇧 [GB] SS 1907
-ss://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.200.199.199:8444?encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc&fp=chrome#🇳🇱 [NL] SS 2260
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080?fp=chrome#🇬🇧 [GB] SS 2006
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443?fp=chrome#🇬🇧 [GB] SS 1930
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080?fp=chrome#🇳🇱 [NL] SS 1940
