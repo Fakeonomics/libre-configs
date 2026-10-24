@@ -4,6 +4,7 @@
 #profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@103.91.147.208:443?security=reality&type=tcp&sni=gb.ozon.ru&fp=edge&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇺🇳 [SC] VLESS 3319
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@budulai.himoy.space:443?security=reality&encryption=none&pbk=mk-wqC8YgfjMc89oFsT2HSpBMYB23kMURVBiXkeFHzg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=budulai.himoy.space&sid=98c76776ef3d1f71#🇺🇸 [US] VLESS 2928
 vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp&fp=chrome#🇮🇱 [IL] VLESS 2316
 vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s171.wagahaha.xyz:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=7dae9c0cs220.gogocs.xyz&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u695098u7dae9c0cs220.gogocs.xyz#🇺🇸 [US] VLESS 2335
@@ -408,6 +409,7 @@ vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?securit
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@213.176.94.31:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇭🇰 [HK] VLESS 1826~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@213.165.37.102:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=safari#🇳🇱 [NL] VLESS 2231~
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?type=grpc&security=reality&encryption=none&sni=bg2.univesalsrv.com&serviceName=api.v2.PushService&fp=firefox&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&mode=gun#🇧🇬 [BG] VLESS 1956~
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dURyQ0ZfaUxveENpUmtLa3U2ZjdB@49.12.249.167:145?fp=chrome#🇩🇪 [DE] SS 3315
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.14.97.242:8443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇳🇴 [NO] VLESS 2065~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.71.22.158:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#🇫🇮 [FI] VLESS 2078
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?fp=chrome#🇮🇹 [IT] SS 1988

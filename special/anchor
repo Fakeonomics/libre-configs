@@ -259,6 +259,7 @@ vless://92a4056a-38d6-49d0-8bd2-600e55af1e9f@45.85.117.174:443?security=reality&
 vless://35da102e-536b-4103-9632-58c7c4c6303b@fl2.originmesh.online:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=fl1.originmesh.online&pbk=RUGdD-Cm83gT0pWvvagg0gxv2Ib8BjhCRR7LOiaq2zE&sid=eecfe76af97a6132&fp=firefox#🇺🇸 [US] VLESS 3311
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@nl5.himoy.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1cnb_l4zv5exEEuv_cYoglyW_Tk4yGl9mjzHoHzvUXA&sid=15f39a6a8150126e&sni=nl5.himoy.space#🇳🇱 [NL] VLESS 2943
 vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp&fp=chrome#🇮🇱 [IL] VLESS 2316
+vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@103.91.147.208:443?security=reality&type=tcp&sni=gb.ozon.ru&fp=edge&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇺🇳 [SC] VLESS 3319
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#🇪🇸 [ES] VLESS 210
 vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@budulai.himoy.space:443?security=reality&encryption=none&pbk=mk-wqC8YgfjMc89oFsT2HSpBMYB23kMURVBiXkeFHzg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=budulai.himoy.space&sid=98c76776ef3d1f71#🇺🇸 [US] VLESS 2928
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@82.118.16.149:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HbK-TTnL1Dog-wKCowjLrKsx5ECIt2uxBsdGfeWG6kQ&sid=7bbf811a&sni=metrika.yandex.ru#🇮🇹 [IT] VLESS 204
@@ -353,4 +354,3 @@ vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8080?fp=chrome#🇬🇧 [GB] SS 2696
 vless://682feb0b-87c5-45f1-bc58-0a5895e0b867@ticket.bestsellersd.site:443?alpn=h2&encryption=none&fp=chrome&host=ticket.bestsellersd.site&mode=auto&path=/Meh?di=443&security=tls&sni=ticket.bestsellersd.site&type=xhttp#🇩🇪 [DE] VLESS 2746
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080?fp=chrome#🇳🇱 [NL] SS 1824
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443?fp=chrome#🇺🇸 [US] SS 1897
