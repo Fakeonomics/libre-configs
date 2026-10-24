@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-24T05:30:07Z",
+  "updated": "2026-10-24T06:00:11Z",
   "tiers": {
     "stable": 350,
     "anchor": 350,
-    "liber": 625,
+    "liber": 636,
     "ru": 60
   },
   "protocols": {
@@ -13,5 +13,5 @@
     "trojan": 13,
     "hysteria2": 10
   },
-  "sha256": "86f79bc3b2d1e5abb5e571ef7e370c0390f6f47045b93586bc0b8ce53752f9e3"
+  "sha256": "751cf4b30e7e7d53f8e0a308a680de66719bd6550e2368b6770f1a6bc765a995"
 }
