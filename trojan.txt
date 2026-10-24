@@ -5,8 +5,8 @@
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
 trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.877774.xyz:443?allowInsecure=1&fp=firefox&host=vless.lrdxw.club&path=%2F&sni=vless.lrdxw.club&type=ws#🌐 XX TROJAN 2387
-trojan://114514@154.16.183.190:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F&fp=chrome#🇭🇰 [HK] TROJAN 2623~
 trojan://7343dd3d00b74cd2@uis175.pacemakere.com:20005?type=tcp&security=tls&fp=chrome#🇺🇸 [US] TROJAN 3264
+trojan://114514@154.16.183.190:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F&fp=chrome#🇭🇰 [HK] TROJAN 2623~
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com&fp=chrome#🇺🇸 [US] TROJAN 307704~
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.200:443?security=tls&sni=de7.dedushka.top&fp=chrome#🇷🇴 [RO] TROJAN 213797~
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&sni=de9.dedushka.top&alpn=http%2F1.1&fp=chrome#🇷🇴 [RO] TROJAN 794344~
