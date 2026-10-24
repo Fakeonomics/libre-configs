@@ -4,9 +4,9 @@
 #profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
+hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 2200
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 1812
 hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?sni=promo.betust.net&fp=chrome#🇸🇪 [SE] HYSTERIA2 3293
-hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&fp=chrome#🇳🇱 [NL] HYSTERIA2 2200
 hysteria2://LixInhAbZAqOczwkgoPsRI0Wba5HXBGh@video-balancer.7.8.advantage-a.cdnnow.xyz:443?sni=video-balancer.7.8.advantage-a.cdnnow.xyz&fp=chrome#🇳🇱 [NL] HYSTERIA2 3308
 hy2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru&fp=chrome#🇫🇮 [FI] HYSTERIA2 104
 hy2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076?sni=scrap.halyvanedorogo.ru&fp=chrome#🇵🇱 [PL] HYSTERIA2 2150
