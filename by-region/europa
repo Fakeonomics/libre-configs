@@ -1,5 +1,6 @@
 vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?security=reality&encryption=none&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=296f27de82dad7ff#🇩🇪 [DE] VLESS 164
 vless://84ed0e09-6803-4ef9-a977-74b657d971e5@31.70.111.146:443?security=reality&type=tcp&allowInsecure=1&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=d7de3a6ff4018957&pbk=ZNmuzIn-zyJi2C0sWRpL9fsMYCgYauXpJElXTqY_LEE#🇩🇪 [DE] VLESS 140
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.196:443?security=reality&pbk=jwLEnDwGROadL1ax-SrVC50sE5slaP7TbGQtBxkcTws&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=c2.qwyak.ru&sid=8c9ab0f7b293f9ef#🇩🇪 [DE] VLESS 3258
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@de.puflino.com:443?security=reality&encryption=none&sni=edge-fr.extazy.net&fp=firefox&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&flow=xtls-rprx-vision#🇩🇪 [DE] VLESS 484166~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@64.226.96.188:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&security=tls&fp=chrome#🇩🇪 [DE] VLESS 3010
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@206.189.56.164:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#🇩🇪 [DE] VLESS 2598
@@ -56,7 +57,7 @@ vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@130.17.25.67:443?type=tcp&headerTyp
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#🇫🇷 [FR] VLESS 1434
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@76.164.203.135:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com#🇪🇸 [ES] VLESS 191
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@76.164.203.141:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com#🇪🇸 [ES] VLESS 2751
-vless://64c05afc-ce81-4ba0-b697-afa04da1427e@195.72.166.251:443?security=reality&flow=xtls-rprx-vision&pbk=RKDT6fVgcZS8Qfzhv5rbeHRIflA3UTKD_HNLJyOoUwk&sid=25349b36802f&fp=firefox&sni=www.lloydsbankinggroup.com&type=tcp&host=www.lloydsbankinggroup.com&path=%2F#🇬🇧 [GB] VLESS 3242
+vless://64c05afc-ce81-4ba0-b697-afa04da1427e@195.72.166.251:443?security=reality&encryption=none&pbk=RKDT6fVgcZS8Qfzhv5rbeHRIflA3UTKD_HNLJyOoUwk&host=www.lloydsbankinggroup.com&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.lloydsbankinggroup.com&sid=25349b36802f#🇬🇧 [GB] VLESS 3242
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@8gm8kr.palka-cdn.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com#🇪🇸 [ES] VLESS 224
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@it.song69.fun:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=HbK-TTnL1Dog-wKCowjLrKsx5ECIt2uxBsdGfeWG6kQ&sni=metrika.yandex.ru&fp=firefox&sid=7bbf811a#🇮🇹 [IT] VLESS 2965
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&encryption=none&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=7f1e29593aa94ad1#🇪🇸 [ES] VLESS 210
@@ -152,6 +153,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080?fp=chrome#🇬🇧 [GB] SS 1893
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@57.131.153.153:2053?path=/&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🇫🇷 [FR] VLESS 2615
 vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?security=reality&type=xhttp&path=%2FG3EEoH63&sni=www.amazon.com&fp=chrome&sid=f57d8f26&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&mode=auto&encryption=none#🇫🇷 [FR] VLESS 2441
+vless://0e9233fa-1fa2-44d0-8cd6-d39c20672782@46.226.167.213:16388?type=grpc&security=reality&fp=chrome&pbk=h3RyzgsJRMW3ii5D1whWYzyhAKb1xp9ReadfRIz1XCg&sid=d2d20c&sni=it.nvidia.com&mode=gun&spx=/47a85c4575e4b7e#🇫🇷 [FR] VLESS 3261
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?fp=chrome#🇬🇧 [GB] SS 1979
 vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?fp=chrome&host=138.124.70.41&path=%2Fvless&security=false&type=ws#🇫🇷 [FR] VLESS 2020
 vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?type=tcp&security=reality&fp=firefox&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&sid=bfe58beb41f1d09f&sni=www.apple.com#🇫🇷 [FR] VLESS 177
@@ -159,6 +161,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080?fp=chrome#🇬🇧 [GB] SS 1846
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?fp=chrome#🇮🇹 [IT] SS 2019
 vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?type=tcp&security=reality&fp=firefox&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&sid=d051f678212f9d54&sni=www.apple.com#🇬🇧 [GB] VLESS 1442
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@179.255.190.43:8443?encryption=none&fp=firefox&path=%2Fassets&security=tls&sni=itly.yandex-api.store&type=ws#🇮🇹 [IT] VLESS 3273
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080?fp=chrome#🇬🇧 [GB] SS 1837
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?fp=chrome#🇬🇧 [GB] SS 1827
 vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@itly.yandex-api.store:8443?encryption=none&type=ws&security=tls&sni=itly.yandex-api.store&fp=firefox&alpn=http/1.1&path=/assets#🇮🇹 [IT] VLESS 3093
