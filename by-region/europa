@@ -50,7 +50,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.201.21.127:8443?type=ws&securit
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@213.226.71.16:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 273227~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.134.38.133:2053?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 659815~
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@82.39.212.230:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 210604~
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@87.120.126.131:443?type=ws&security=tls&encryption=none&sni=snip.edgeoneai.cc.cd&path=%2F&host=snip.edgeoneai.cc.cd&fp=chrome#🇩🇪 [DE] VLESS 582267~
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.96:443?type=grpc&security=tls&encryption=none&sni=studio.10media.top&serviceName=studiofeed&fp=firefox#🇩🇪 [DE] VLESS 555236~
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@studio.10media.top:443?type=grpc&security=tls&encryption=none&sni=studio.10media.top&serviceName=studiofeed&fp=chrome#🇩🇪 [DE] VLESS 402079~
 vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.141.118.232:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node.remnagecsp.ru&fp=firefox&pbk=0BVxZKOt6wO0jIB1xRkAAtaFUkmyFAbVWfkkKSJBfEI&sid=570ffeb12f6e4635&type=tcp&headerType=none#🇬🇧 [GB] VLESS 2194

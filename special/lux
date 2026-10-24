@@ -4,6 +4,7 @@
 #profile-web-page-url: https://app8967321670.tgcloud.ai/
 #routing-enable: 5
 #announce: Канал с подписками и поддержкой — https://t.me/IFakeNews
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@31.77.131.246:443?security=reality&encryption=none&pbk=1cnb_l4zv5exEEuv_cYoglyW_Tk4yGl9mjzHoHzvUXA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl5.himoy.space&sid=15f39a6a8150126e#🇳🇱 [NL] VLESS 3047
 vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0QDBHaCRO2dPeeSVy3B3R_U12ZOvbvWl1JTFW_ZcpD0&sid=31e91d43e553bf32&sni=gateway.icloud.com#🇷🇴 [RO] VLESS 2923
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10444?flow=xtls-rprx-vision&fp=safari&host=ads.x5.ru&path=%2F&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#🇺🇸 [US] VLESS 2674
 vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#🇫🇮 [FI] VLESS 2903
@@ -25,6 +26,5 @@ vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.61.213:443?security=reality&
 vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@130.17.25.67:443?type=tcp&headerType=none&security=reality&encryption=none&sni=github.com&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&flow=xtls-rprx-vision&fp=chrome#🇪🇸 [ES] VLESS 012
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#🇺🇳 [BY] VLESS 3028
 vless://84ed0e09-6803-4ef9-a977-74b657d971e5@31.70.111.146:443?security=reality&type=tcp&allowInsecure=1&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=d7de3a6ff4018957&pbk=ZNmuzIn-zyJi2C0sWRpL9fsMYCgYauXpJElXTqY_LEE#🇩🇪 [DE] VLESS 140
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@109.69.218.164:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&sni=zealous-vortex.cdn.cachefleet.com#🇧🇪 [BE] VLESS 3045
 vless://9c60369d-e5f9-4cec-9e63-1560e88e119a@195.123.221.36:443?encryption=none&flow=xtls-rprx-vision&pbk=dIv6pPS-x6IzbiPyHX8nNdRrwI2yZl4y3YCeRWy9UgE&security=reality&sid=3e67326f98ddb407&sni=gateway.icloud.com&type=tcp&fp=chrome#🇳🇱 [NL] VLESS 2337
-vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=images.unsplash.com&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&sid=7da2eae792187ab9&headertype=none&fp=chrome#🇺🇸 [US] VLESS 143
-vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?encryption=none&security=reality&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo&sid=1625a2a79d01328f&flow=xtls-rprx-vision&sni=www.adobe.com&fp=chrome#🇦🇪 [AE] VLESS 1723
