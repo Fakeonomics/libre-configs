@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-24T15:10:25Z",
+  "updated": "2026-10-24T16:00:08Z",
   "tiers": {
     "stable": 350,
     "anchor": 350,
-    "liber": 556,
+    "liber": 572,
     "ru": 60
   },
   "protocols": {
     "vless": 250,
     "vmess": 10,
-    "ss": 126,
+    "ss": 131,
     "trojan": 11,
-    "hysteria2": 13
+    "hysteria2": 12
   },
-  "sha256": "0ed843b9b58028b6bbec6bab6098c22761bde28652560c4c2c379400b3db26bc"
+  "sha256": "2b998dab86574c874fe965bc3f91e1236e9bdb3ee16d56865150d21f2586f060"
 }
