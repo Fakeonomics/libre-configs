@@ -1,5 +1,5 @@
 #profile-title: VPN Subscription
-#updated: 2026-10-28T05:34:49.210085+00:00
+#updated: 2026-10-28T05:43:24.440704+00:00
 vless://0d607d84-0ae0-4b9c-a4f3-1766ab456e02@api.purchasebot.net:443?security=reality&encryption=none&sni=deepl.com&fp=edge&pbk=X0silBy-S7r2mGLkY85gByFrLzBJJGs1yyhyD8WLMho&sid=13abc3d5&flow=xtls-rprx-vision#Server 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#Server 2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#Server 3
