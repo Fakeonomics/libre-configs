@@ -1,5 +1,5 @@
 #profile-title: VPN Subscription
-#updated: 2026-10-30T11:01:10Z
+#updated: 2026-10-30T11:30:46Z
 #count: 170
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#🇮🇹 IT · Node 01
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#🇮🇹 IT · Node 02
@@ -114,7 +114,7 @@ vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?type=xhttp&se
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#🇨🇦 CA · Node 111
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 US · Node 112
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#🇮🇱 IL · Node 113
-vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&encryption=none&sni=www.samsung.com&fp=firefox&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&flow=xtls-rprx-vision#🇹🇷 TR · Node 114
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&encryption=none&sni=www.samsung.com&fp=firefox&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&flow=xtls-rprx-vision#🇷🇺 RU · Node 114
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 US · Node 115
 vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@84.32.108.4:443?type=xhttp&security=tls&encryption=none&sni=7d1a74fd.ferrin.uk&path=%2Fes&fp=firefox&mode=auto#🇳🇱 NL · Node 116
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@91.84.115.36:443?type=xhttp&security=reality&encryption=none&sni=lectures.blog-forme.ru&path=%2Fv2%2Fsync%2Faf2c0c&fp=firefox&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed#🇳🇱 NL · Node 117
