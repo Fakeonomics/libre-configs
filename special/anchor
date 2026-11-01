@@ -1,5 +1,5 @@
 #profile-title: VPN Subscription
-#updated: 2026-11-01T13:00:46Z
+#updated: 2026-11-01T13:30:46Z
 #count: 452
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#🇮🇹 IT · Node 01
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#🇮🇹 IT · Node 02
@@ -155,7 +155,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.180:443?security=reality&sni=36a466g.fi1.h1clayd.click&fp=chrome&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&type=grpc&serviceName=0adb9638509b&encryption=none#🇫🇮 FI · Node 152
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 US · Node 153
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 US · Node 154
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fes&mode=stream-one&extra=%7B%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22hMaxReusableSecs%22%20%3A%20%221140-1260%22%2C%0A%20%20%20%20%22maxConnections%22%20%3A%203%0A%20%20%7D%0A%7D&encryption=none#🇳🇱 NL · Node 155
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fes&mode=stream-one&extra=%7B%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22hMaxReusableSecs%22%20%3A%20%221140-1260%22%2C%0A%20%20%20%20%22maxConnections%22%20%3A%203%0A%20%20%7D%0A%7D&encryption=none#🇩🇪 DE · Node 155
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?security=reality&sni=rs3.univesalsrv.com&fp=random&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&sid=35d05b666e2c6cdf&spx=%2F&type=grpc&serviceName=edge.v2.FeedService&encryption=none#🇷🇸 RS · Node 156
 trojan://humanity@169.58.44.174:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#🇫🇷 FR · Node 157
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?security=reality&sni=rs5.univesalsrv.com&fp=firefox&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&type=grpc&mode=gun&serviceName=gw.v1.ObjectService&authority=TELEGRAM%40MARAMBASHI_MARAMBASHI&encryption=none#🇷🇸 RS · Node 158
@@ -441,7 +441,7 @@ vless://50a87e21-f0e2-4b53-a787-91adfe748f63@usatimewebnew.space:443?security=re
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.180:443?type=grpc&security=reality&encryption=none&sni=36a466g.fi1.h1clayd.click&serviceName=0adb9638509b&fp=firefox&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6#🇫🇮 FI · Node 438
 vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:24127?security=reality&encryption=none&sni=uk.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&flow=xtls-rprx-vision#🇷🇺 RU · Node 439
 vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@ee1.vpngold.ru:8443?security=reality&encryption=none&sni=ee1.vpngold.ru&fp=firefox&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&sid=385cb18df0892069&flow=xtls-rprx-vision#🇪🇪 EE · Node 440
-hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@191.217.211.161:20270?insecure=1&sni=pl1.song69.fun&alpn=h3#🇺🇸 US · Node 441
+hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@191.217.211.161:20270?insecure=1&sni=pl1.song69.fun&alpn=h3#🇵🇱 PL · Node 441
 trojan://humanity@125.7.24.251:443?security=tls&sni=www.cordweave.com&path=%2Fassignment#🇦🇺 AU · Node 442
 vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@45.86.60.102:8443?security=reality&encryption=none&sni=ee1.vpngold.ru&fp=chrome&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&sid=385cb18df0892069&flow=xtls-rprx-vision#🇪🇪 EE · Node 443
 vless://a449b942-e70d-4124-96c1-a489e701d7ee@13.143.184.226:443?security=reality&encryption=none&sni=msc1.serverslocal.ru&fp=chrome&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&sid=f7e66e308136e1a1&flow=xtls-rprx-vision#🇷🇺 RU · Node 444
