@@ -1,0 +1,12 @@
+#profile-title: Minis Subscription
+#updated: 2026-11-03T11:16:10Z
+#count: 9
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@main.jarbook.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=main.jarbook.net&fp=firefox&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&sid=d889ac17&type=tcp#🇳🇱 HavenVPN | Нидерланды #🇳🇱 NL · Node 01
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@admin.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=admin.betust.net&fp=firefox&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406&type=tcp#🇵🇱 HavenVPN | Польша #🇱🇹 LT · Node 02
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@tickets.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tickets.betust.net&fp=firefox&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&sid=f70764f8&type=tcp#🇩🇪 HavenVPN | Германия #🇩🇪 DE · Node 03
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@admin.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=admin.betust.net&fp=firefox&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&sid=3e137406&type=tcp#🇸🇪 HavenVPN | Швеция #🇱🇹 LT · Node 04
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 HavenVPN | Белые списки #🇳🇱 NL · Node 05
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 HavenVPN | Белые списки #🇳🇱 NL · Node 06
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#🇷🇺 HavenVPN | Белые списки #🇳🇱 NL · Node 07
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp#🇷🇺 HavenVPN | Белые списки #🇳🇱 NL · Node 08
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000&type=tcp#🇷🇺 HavenVPN | Белые списки #🇳🇱 NL · Node 09
