@@ -1,5 +1,5 @@
 #profile-title: VPN Subscription
-#updated: 2026-11-03T04:31:06Z
+#updated: 2026-11-03T05:00:45Z
 #count: 448
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#🇮🇹 IT · Node 01
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#🇮🇹 IT · Node 02
@@ -155,7 +155,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.180:443?security=reality&sni=36a466g.fi1.h1clayd.click&fp=chrome&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&type=grpc&serviceName=0adb9638509b&encryption=none#🇫🇮 FI · Node 152
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 US · Node 153
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 US · Node 154
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fes&mode=stream-one&extra=%7B%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22hMaxReusableSecs%22%20%3A%20%221140-1260%22%2C%0A%20%20%20%20%22maxConnections%22%20%3A%203%0A%20%20%7D%0A%7D&encryption=none#🇩🇪 DE · Node 155
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&path=%2Fes&mode=stream-one&extra=%7B%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22hMaxReusableSecs%22%20%3A%20%221140-1260%22%2C%0A%20%20%20%20%22maxConnections%22%20%3A%203%0A%20%20%7D%0A%7D&encryption=none#🇬🇧 GB · Node 155
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?security=reality&sni=rs3.univesalsrv.com&fp=random&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&sid=35d05b666e2c6cdf&spx=%2F&type=grpc&serviceName=edge.v2.FeedService&encryption=none#🇷🇸 RS · Node 156
 trojan://humanity@169.58.44.174:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#🇫🇷 FR · Node 157
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?security=reality&sni=rs5.univesalsrv.com&fp=firefox&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&type=grpc&mode=gun&serviceName=gw.v1.ObjectService&authority=TELEGRAM%40MARAMBASHI_MARAMBASHI&encryption=none#🇷🇸 RS · Node 158
