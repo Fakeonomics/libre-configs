@@ -1,5 +1,5 @@
 #profile-title: VPN Subscription
-#updated: 2026-11-05T05:00:49Z
+#updated: 2026-11-05T05:30:50Z
 #count: 463
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#🇮🇹 IT · Node 01
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#🇮🇹 IT · Node 02
@@ -81,7 +81,7 @@ vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@84.32.184.218:443?security=tls&sni=
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&sni=hvtlr-ru-47sb.fade.mom&alpn=http%2F1.1%2Ch2&fp=qq&type=tcp&encryption=none#🇷🇺 RU · Node 78
 vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@84.32.108.4:443?security=tls&sni=7d1a74fd.ferrin.uk&fp=firefox&type=xhttp&path=%2Fes%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&encryption=none#🇳🇱 NL · Node 79
 vmess://eyJ2IjoiMiIsInBzIjoiMDA3MSB8IOKYge+4jyBDbG91ZGZsYXJlIHwgVk1FU1MgfCBURzogQFlvdXR1YmVVbkJsb2NrUnUiLCJhZGQiOiIxMDQuMjEuNy4xMzMiLCJwb3J0IjoiODAiLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ilwvd3M/ZWQ9MjA0OCIsInRscyI6IiIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJhbHBuIjoiIiwiY3MiOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiIn0=#🏳️ ?? · Node 80
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&fp=chrome&type=xhttp&path=%2Fes&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A%223%22%7D%7D&encryption=none#🇳🇱 NL · Node 81
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&fp=chrome&type=xhttp&path=%2Fes&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A%223%22%7D%7D&encryption=none#🇩🇪 DE · Node 81
 vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@84.32.108.4:443?security=tls&sni=7d1a74fd.ferrin.uk&fp=firefox&insecure=0&allowInsecure=0&type=xhttp&path=%2Fes&mode=auto&encryption=none#🇳🇱 NL · Node 82
 vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@84.32.108.4:443?security=tls&sni=7d1a74fd.ferrin.uk&alpn=h2&fp=firefox&type=xhttp&path=%2Fes%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&mode=stream-one&encryption=none#🇳🇱 NL · Node 83
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#🇺🇸 US · Node 84
@@ -104,7 +104,7 @@ vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@84.32.184.218:443?security=tls&sni=
 trojan://humanity@207.180.209.128:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#🇫🇷 FR · Node 101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#🇳🇱 NL · Node 102
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&sni=hvtlr-ru-47sb.fade.mom&fp=firefox&type=tcp&encryption=none#🇷🇺 RU · Node 103
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?security=tls&sni=7d1a74fd.ferrin.uk&fp=firefox&type=xhttp&path=%2Fes&mode=stream-one&encryption=none#🇬🇧 GB · Node 104
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?security=tls&sni=7d1a74fd.ferrin.uk&fp=firefox&type=xhttp&path=%2Fes&mode=stream-one&encryption=none#🇳🇱 NL · Node 104
 vless://7b91b2c3-8af3-449b-a555-00c9460989f4@lvi.su:443?security=tls&sni=lvi.su&fp=chrome&type=ws&host=lvi.su&path=%2Fvpn-relay%3Ftoken%3D27fede42482b3c29d4c1c9640876c250%26pool%3Dwhitelist2&encryption=none#🇩🇪 DE · Node 105
 vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@50.7.87.93:443?security=tls&sni=7d1a74fd.ferrin.uk&fp=firefox&type=xhttp&path=%2Fes&mode=auto&encryption=none#🇩🇪 DE · Node 106
 trojan://humanity@91.149.167.147:8443?security=tls&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=%2Fassignment#🇧🇾 BY · Node 107
