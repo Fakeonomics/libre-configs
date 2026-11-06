@@ -1,6 +1,9 @@
 #profile-title: Minis Subscription
-#updated: 2026-11-06T19:00:03Z
-#count: 3
-vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=dE3wtv44FXcZGAp0MYiYYa79z_JlcVNmPN5t8qa0cTs&fp=chrome&sni=zieng2.org&sid=d3&spx=%2F&flow=xtls-rprx-vision#🏳️ ?? · Node 01
-vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=dkvpi6EugCxGdX80VFiAU4LtuakJn8MKtrN2BJGfnnQ&fp=chrome&sni=zieng2.org&sid=b2&spx=%2F&flow=xtls-rprx-vision#🏳️ ?? · Node 02
-vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=w7WIGludzG_nDV1JiMg0FWJWrwJh6SSM1dDXfWNOwT0&fp=chrome&sni=zieng2.org&sid=c4&spx=%2F&flow=xtls-rprx-vision#🏳️ ?? · Node 03
+#updated: 2026-11-06T19:27:50Z
+#count: 6
+vless://146d567c-6335-4e63-a8aa-7ec068642440@pl1.obxodvpn.us:443?type=xhttp&security=reality&sni=pl1.obxodvpn.us&pbk=fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw&sid=5c42ed8c&fp=firefox&host=pl1.obxodvpn.us&path=%2Fxhttp&mode=packet-up&encryption=none#🇺🇸 US · Node 01
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:443?security=tls&sni=nlll.obxodvpn.us&alpn=h3&fp=chrome#🇺🇸 US · Node 02
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443?security=tls&sni=fi1.obxodvpn.us&alpn=h3&fp=chrome#🇺🇸 US · Node 03
+vless://146d567c-6335-4e63-a8aa-7ec068642440@ee2.obxodvpn.us:443?type=xhttp&security=reality&sni=ee2.obxodvpn.us&pbk=fDrDDz_GCqhDgG8kMxWXk2vRuyfBHTTNwVa7k7nJHgw&sid=5c42ed8c&fp=firefox&host=ee2.obxodvpn.us&path=%2Fxhttp&mode=packet-up&encryption=none#🇪🇪 EE · Node 04
+vless://41847193-20ab-4525-be9f-3113123b864d@185.86.145.40:5443?type=ws&security=tls&sni=k2.r-fi-1.dokomon.com&fp=qq&host=r-fi-1.dokomon.com&path=%2Fws%2F&encryption=none#🇷🇺 RU · Node 05
+vless://41847193-20ab-4525-be9f-3113123b864d@185.86.145.40:5443?type=ws&security=tls&sni=k2.r-se-1.dokomon.com&fp=qq&host=r-se-1.dokomon.com&path=%2Fws%2F&encryption=none#🇷🇺 RU · Node 06
