@@ -1,5 +1,5 @@
 #profile-title: Minis Subscription
-#updated: 2026-11-07T04:04:19Z
+#updated: 2026-11-07T04:30:35Z
 #count: 6
 vless://7585e2a8-42a5-45b2-b706-3189938f90d0@api.mediapolden.cc:443?type=grpc&security=tls&fp=qq&sni=api.mediapolden.cc&serviceName=r7Kp4mN9tQ2v&mode=gun&alpn=h2#🇷🇺 RU · Node 01
 vless://7585e2a8-42a5-45b2-b706-3189938f90d0@api.oblachnyservis.cc:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=api.oblachnyservis.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#🇷🇺 RU · Node 02
