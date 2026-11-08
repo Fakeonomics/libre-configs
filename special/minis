@@ -1,9 +1,9 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 08.11.26 23:06 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-08T20:06:14Z
+#announce: последнее обновление : 08.11.26 23:14 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-08T20:14:20Z
 #count: 14
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇳🇱 NL · Node 01
+vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🏳️ ?? · Node 01
 hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@hsale.locallynet.org:5443?security=tls&sni=hsale.locallynet.org&alpn=h3#🏳️ ?? · Node 02
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🏳️ ?? · Node 03
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@zug-net.locallynet.org:6443?type=tcp&security=tls&sni=zug-net.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🏳️ ?? · Node 04
