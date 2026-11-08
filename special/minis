@@ -1,7 +1,7 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 09.11.26 00:41 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-08T21:41:16Z
+#announce: последнее обновление : 09.11.26 00:47 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-08T21:47:48Z
 #count: 14
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#HavenVPN · Node 01
 hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@hsale.locallynet.org:5443?security=tls&sni=hsale.locallynet.org&alpn=h3#HavenVPN · Node 02
