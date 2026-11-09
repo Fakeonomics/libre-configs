@@ -1,7 +1,7 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 09.11.26 01:12 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-09T01:12:18Z
+#announce: последнее обновление : 09.11.26 01:17 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-09T01:17:18Z
 #count: 806
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇩🇪 .Libere VPN · Node 01
 hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@hsale.locallynet.org:5443?security=tls&sni=hsale.locallynet.org&alpn=h3#🇩🇪 .Libere VPN · Node 02
@@ -679,7 +679,7 @@ vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:80?security=none
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.drlimit.net#🇺🇸 .Libere VPN · Node 674
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net#🇺🇸 .Libere VPN · Node 675
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.drlimit.net#🇺🇸 .Libere VPN · Node 676
-vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#🇳🇱 .Libere VPN · Node 677
+vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#🇺🇸 .Libere VPN · Node 677
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 .Libere VPN · Node 678
 vless://f17620d7-e79f-4640-92f2-b2278fa9bd4b@185.235.196.126:7788?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 .Libere VPN · Node 679
 vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 .Libere VPN · Node 680
