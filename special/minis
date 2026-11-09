@@ -1,19 +1,19 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 09.11.26 03:10 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-09T00:10:30Z
+#announce: последнее обновление : 09.11.26 03:56 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-09T00:56:02Z
 #count: 14
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇩🇪 .Libere VPN · Node 01
-hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@hsale.locallynet.org:5443?security=tls&sni=hsale.locallynet.org&alpn=h3#🇩🇪 .Libere VPN · Node 02
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇵🇱 .Libere VPN · Node 03
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@zug-net.locallynet.org:6443?type=tcp&security=tls&sni=zug-net.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇨🇭 .Libere VPN · Node 04
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@bratok.hysteria.ltd:6443?type=tcp&security=tls&sni=bratok.hysteria.ltd&fp=qq&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · Node 05
-hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@wiki.locallynet.org:8443?security=tls&sni=wiki.locallynet.org&alpn=h3#🇬🇧 .Libere VPN · Node 06
-vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · Node 07
-vless://2b5962e8-1ec2-0001-bdab-cefa57555d2a@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · Node 08
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 .Libere VPN · Node 09
-vless://2b5962e8-1ec2-0001-bdab-cefa57555d2a@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&path=%2Fsession&host=mbr.rkn-pediki.site#🇷🇺 .Libere VPN · Node 10
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@mapzapravki.space:8443?type=tcp&security=tls&sni=lada.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 11
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@87.228.33.153:6443?type=tcp&security=tls&sni=for.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 12
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@185.22.234.32:8443?type=tcp&security=reality&sni=max.ru&pbk=xEprpxcbj30lJZMfNWftPtiAmgrXTzRnnN3HFRtFfB4&sid=f3c0f343a191&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 13
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@aurora-coffee.site:8443?type=tcp&security=tls&sni=cdn-glavslush.herumhas.shop&fp=qq&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 14
+vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇩🇪 .Libere VPN · 01
+hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@hsale.locallynet.org:5443?security=tls&sni=hsale.locallynet.org&alpn=h3#🇩🇪 .Libere VPN · 02
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇵🇱 .Libere VPN · 03
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@zug-net.locallynet.org:6443?type=tcp&security=tls&sni=zug-net.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇨🇭 .Libere VPN · 04
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@bratok.hysteria.ltd:6443?type=tcp&security=tls&sni=bratok.hysteria.ltd&fp=qq&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · 05
+hysteria2://68a67906-5b37-4779-a6cc-58a1655f18b4@wiki.locallynet.org:8443?security=tls&sni=wiki.locallynet.org&alpn=h3#🇬🇧 .Libere VPN · 06
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · 07
+vless://2b5962e8-1ec2-0001-bdab-cefa57555d2a@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · 08
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🇷🇺 .Libere VPN · 09
+vless://2b5962e8-1ec2-0001-bdab-cefa57555d2a@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&path=%2Fsession&host=mbr.rkn-pediki.site#🇷🇺 .Libere VPN · 10
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@mapzapravki.space:8443?type=tcp&security=tls&sni=lada.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 11
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@87.228.33.153:6443?type=tcp&security=tls&sni=for.cloudgamings.org&fp=firefox&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 12
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@185.22.234.32:8443?type=tcp&security=reality&sni=max.ru&pbk=xEprpxcbj30lJZMfNWftPtiAmgrXTzRnnN3HFRtFfB4&sid=f3c0f343a191&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 13
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@aurora-coffee.site:8443?type=tcp&security=tls&sni=cdn-glavslush.herumhas.shop&fp=qq&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 14
