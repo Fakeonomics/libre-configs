@@ -1,17 +1,14 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 11.11.26 21:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-11T18:01:25Z
-#count: 12
-hysteria2://c8c54160-129b-43d1-8700-91c31f0984c7@31.76.5.243:443?security=tls&sni=kk-de4942.testkknegr.online&fp=chrome#🇧🇿 .Libere VPN · 01
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.203:2058?type=tcp&security=reality&sni=www.cloudflare.com&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673&fp=chrome&encryption=none&flow=xtls-rprx-vision#🇲🇭 .Libere VPN · 02
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@141.133.180.206:2058?type=tcp&security=reality&sni=www.cloudflare.com&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&sid=937255313d6ce673&fp=chrome&encryption=none&flow=xtls-rprx-vision#🇲🇭 .Libere VPN · 03
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?security=tls&sni=lakes.blog-forme.ru&alpn=h3&fp=chrome#🇫🇮 .Libere VPN · 04
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&spx=%2F#🇫🇮 .Libere VPN · 05
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:443?security=tls&sni=guide.blog-forme.ru&alpn=h3&fp=chrome#🇩🇪 .Libere VPN · 06
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?security=tls&sni=harbor.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 .Libere VPN · 07
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?security=tls&sni=shorts.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 .Libere VPN · 08
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?security=tls&sni=docs.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 .Libere VPN · 09
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 10
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 11
-vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · 12
+#announce: последнее обновление : 11.11.26 23:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-11T20:01:25Z
+#count: 9
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#🇸🇪 .Libere VPN · 01
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@de1.obxodvpn.us:443?security=tls&sni=de1.obxodvpn.us&alpn=h3&fp=chrome#🇩🇪 .Libere VPN · 02
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMSIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyODA1NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=#🏳️ .Libere VPN · 03
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMiIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIzMjY5NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=#🏳️ .Libere VPN · 04
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMyIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyNjAzMiIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=#🏳️ .Libere VPN · 05
+ss://YWVzLTI1Ni1nY206U0hFaFlleVlmeHBidHo4TGllV2tiT0hYR2ZnNUJBc3FUTGhvbHp2MU12dz0=@123466.ru:10785#🇳🇱 .Libere VPN · 06
+vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 07
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 08
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU9obnhaUTAwV0hLN3FreDlqQ1NIQkxOTXhzODUyOGdzNnRyOHlzUzdmMD06VmxGV1VsWktVbTFDTFRjdFduSjJaWEUyYlhsNFV6WXplRkpUUmpvNFltRT0=@m-vruvc.mvpstr.com:443#🇷🇺 .Libere VPN · 09
