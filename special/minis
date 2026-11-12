@@ -1,14 +1,19 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 12.11.26 19:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-12T16:01:22Z
-#count: 9
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru&alpn=h3&fp=chrome#🇫🇮 .Libere VPN · Node 01
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?sni=harbor.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 .Libere VPN · Node 02
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru&alpn=h3&fp=chrome#🇳🇱 .Libere VPN · Node 03
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=mother-earth.fyi&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇫🇷 .Libere VPN · Node 04
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=%2F#🇵🇱 .Libere VPN · Node 05
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 06
-vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · Node 07
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?type=tcp&security=reality&sni=thumbs.mycdn-io.ru&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&fp=edge&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 08
-vless://2b5962e8-1ec2-0001-bdab-cefa57555d2a@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · Node 09
+#announce: последнее обновление : 12.11.26 21:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-12T18:01:22Z
+#count: 14
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@pl1-mgmt.soshelper.space:443?type=tcp&security=reality&sni=pl1.soshelper.space&pbk=mEo4kHPpRns7efJfVW1G-gDEsPag0jELFQK-HIwrvjY&sid=6562cf617728186e&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇵🇱 .Libere VPN · Node 01
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@pl3.soshelper.space:443?type=tcp&security=reality&sni=pl3.soshelper.space&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&sid=e06e30590f288e0f&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇵🇱 .Libere VPN · Node 02
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@gb1.soshelper.space:443?type=tcp&security=reality&sni=gb1.soshelper.space&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&sid=e06e30590f288e0f&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇬🇧 .Libere VPN · Node 03
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@gb2.soshelper.space:443?type=tcp&security=reality&sni=gb2.soshelper.space&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&sid=e06e30590f288e0f&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇬🇧 .Libere VPN · Node 04
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@nl1.soshelper.space:443?type=tcp&security=reality&sni=nl1.soshelper.space&pbk=mEo4kHPpRns7efJfVW1G-gDEsPag0jELFQK-HIwrvjY&sid=6562cf617728186e&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · Node 05
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@nl2.soshelper.space:443?type=tcp&security=reality&sni=nl2.soshelper.space&pbk=mEo4kHPpRns7efJfVW1G-gDEsPag0jELFQK-HIwrvjY&sid=6562cf617728186e&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · Node 06
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@nl3.soshelper.space:443?type=tcp&security=reality&sni=nl3.soshelper.space&pbk=mEo4kHPpRns7efJfVW1G-gDEsPag0jELFQK-HIwrvjY&sid=6562cf617728186e&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · Node 07
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@nl4.soshelper.space:443?type=tcp&security=reality&sni=nl4.soshelper.space&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&sid=e06e30590f288e0f&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · Node 08
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@nl5.soshelper.space:443?type=tcp&security=reality&sni=nl5.soshelper.space&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&sid=e06e30590f288e0f&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · Node 09
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@nl6.soshelper.space:443?type=tcp&security=reality&sni=nl6.soshelper.space&pbk=9UG9zvrDpiPgY_J0dvB-n10ygEw3FzJ2qT8PFtITUBE&sid=e06e30590f288e0f&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · Node 10
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 11
+vless://4662bf2b-af58-0001-ae5f-ef3d7d3a624f@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&fp=ios&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · Node 12
+vless://6c8e3705-809e-4ca8-ae10-fe2ae2fa9859@188.225.83.56:8004?type=xhttp&security=tls&sni=origin.soshelper.space&fp=firefox&host=origin.soshelper.space&path=%2F&mode=packet-up&alpn=h2%2Chttp%2F1.1&encryption=none#🇷🇺 .Libere VPN · Node 13
+vless://2b5962e8-1ec2-0001-bdab-cefa57555d2a@mbr.rkn-pediki.site:443?type=ws&security=tls&sni=mbr.rkn-pediki.site&host=mbr.rkn-pediki.site&path=%2Fsession&encryption=none#🇷🇺 .Libere VPN · Node 14
