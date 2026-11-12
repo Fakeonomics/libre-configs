@@ -1,14 +1,14 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 12.11.26 07:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-12T04:01:16Z
+#announce: последнее обновление : 12.11.26 08:47 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-12T05:47:27Z
 #count: 9
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#🇸🇪 .Libere VPN · 01
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@de1.obxodvpn.us:443?security=tls&sni=de1.obxodvpn.us&alpn=h3&fp=chrome#🇩🇪 .Libere VPN · 02
-vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMSIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyODA1NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=#🏳️ .Libere VPN · 03
-vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMiIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIzMjY5NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=#🏳️ .Libere VPN · 04
-vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMyIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyNjAzMiIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=#🏳️ .Libere VPN · 05
-ss://YWVzLTI1Ni1nY206U0hFaFlleVlmeHBidHo4TGllV2tiT0hYR2ZnNUJBc3FUTGhvbHp2MU12dz0=@123466.ru:10785#🇳🇱 .Libere VPN · 06
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 07
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · 08
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU9obnhaUTAwV0hLN3FreDlqQ1NIQkxOTXhzODUyOGdzNnRyOHlzUzdmMD06VmxGV1VsWktVbTFDTFRjdFduSjJaWEUyYlhsNFV6WXplRkpUUmpvNFltRT0=@m-vruvc.mvpstr.com:443#🇷🇺 .Libere VPN · 09
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=swedenafteraventura.space&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY#🇸🇪 .Libere VPN · Node 01
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@de1.obxodvpn.us:443?security=tls&sni=de1.obxodvpn.us&alpn=h3&fp=chrome#🇩🇪 .Libere VPN · Node 02
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMSIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyODA1NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=#🏳️ .Libere VPN · Node 03
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMiIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIzMjY5NCIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInBhdGgiOiIvIiwidGxzIjoiIn0=#🏳️ .Libere VPN · Node 04
+vmess://eyJ2IjoiMiIsInBzIjoiSGF2ZW5WUE4gfCDQndC40LTQtdGA0LvQsNC90LTRiyAjMyIsImFkZCI6IjEyMzQ2Ni5ydSIsInBvcnQiOiIyNjAzMiIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=#🏳️ .Libere VPN · Node 05
+ss://YWVzLTI1Ni1nY206U0hFaFlleVlmeHBidHo4TGllV2tiT0hYR2ZnNUJBc3FUTGhvbHp2MU12dz0=@123466.ru:10785#🇳🇱 .Libere VPN · Node 06
+vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?type=tcp&security=reality&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 07
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 08
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU9obnhaUTAwV0hLN3FreDlqQ1NIQkxOTXhzODUyOGdzNnRyOHlzUzdmMD06VmxGV1VsWktVbTFDTFRjdFduSjJaWEUyYlhsNFV6WXplRkpUUmpvNFltRT0=@m-vruvc.mvpstr.com:443#🇷🇺 .Libere VPN · Node 09
