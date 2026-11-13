@@ -1,11 +1,12 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 13.11.26 23:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-13T20:01:13Z
-#count: 6
+#announce: последнее обновление : 14.11.26 01:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-13T22:01:18Z
+#count: 7
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@178.130.50.98:443?type=xhttp&security=reality&sni=max.ru&pbk=kHFFCIj38jd8mZURUBxxQTdeZmgQhJNAPm4bc4km2mU&sid=2eb0e4e484b41ca0&fp=qq&host=&path=%2Fv2%2Fmobile%2F6b4e35702e1effae&mode=packet-up&encryption=none#🇳🇱 .Libere VPN · Node 01
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@81.177.217.125:443?type=xhttp&security=reality&sni=max.ru&pbk=AeA2OlQwDE5lYg8tVa8apn0YIrFXJXr9Ga0lzECJB3w&sid=a9a213088b35c2d5&fp=firefox&host=&path=%2Fv2%2Fmobile%2F493e063e25619914&mode=packet-up&encryption=none#🇳🇱 .Libere VPN · Node 02
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.185.6:443?type=tcp&security=reality&sni=house.goonars.com&pbk=R7fjHN3-O-rbrgUhzQFXmiUzjGoyUZwlvCJCL19nQS8&sid=9ad6f1fb&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇳🇱 .Libere VPN · Node 03
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@46.16.14.168:443?type=xhttp&security=reality&sni=max.ru&pbk=Q5_v0M1qbRxgiEvUaLetLxR27RNv6GyfETg03JEFplo&sid=288038821bbee217&fp=edge&host=&path=%2Fv2%2Fmobile%2F78ff0288fd95a738&mode=packet-up&encryption=none#🇳🇱 .Libere VPN · Node 02
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.74.226.73:443?type=xhttp&security=reality&sni=max.ru&pbk=lQWZPEvtIsqAhnM7h81ApuPSquj-BCdyPKZUC4VWoA4&sid=10bcf361678d6803&fp=firefox&host=&path=%2Fv2%2Fmobile%2Fd2c6b625e7a1&mode=packet-up&encryption=none#🇳🇱 .Libere VPN · Node 03
 vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@87.120.92.186:2087?type=xhttp&security=reality&sni=maps.blog-forme.ru&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&fp=firefox&host=&path=%2Fv2%2Fsync%2F6e9367&mode=auto&encryption=none#🇩🇪 .Libere VPN · Node 04
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@157.173.16.162:443?type=tcp&security=reality&sni=rheinmode.rtxownerez.com&pbk=TTD2h-hUhD39pZfEOQtAjsTTR1LpN9034M2QjDSi8yE&sid=569eb4ca6edbd45f&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇨🇿 .Libere VPN · Node 05
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 06
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@93.183.127.54:24447?type=xhttp&security=reality&sni=lakes.blog-forme.ru&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&sid=3258252d44113e23&fp=firefox&host=&path=%2Fv2%2Fsync%2F6e9367&mode=auto&encryption=none#🇫🇮 .Libere VPN · Node 05
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@157.173.16.162:443?type=tcp&security=reality&sni=rheinmode.rtxownerez.com&pbk=TTD2h-hUhD39pZfEOQtAjsTTR1LpN9034M2QjDSi8yE&sid=569eb4ca6edbd45f&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇨🇿 .Libere VPN · Node 06
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?type=tcp&security=reality&sni=get.jarbook.net&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#🇷🇺 .Libere VPN · Node 07
