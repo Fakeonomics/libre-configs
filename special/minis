@@ -1,7 +1,7 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 15.11.26 19:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-15T16:01:19Z
+#announce: последнее обновление : 15.11.26 21:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-15T18:01:02Z
 #count: 63
 vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=user.betust.net&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&sid=c1064ddb#🇳🇱 .Libere VPN · Node 01
 vless://ad9a885d-93bb-48e3-9937-57f1116b64e3@151.101.36.227:443?encryption=none&security=tls&sni=accounts.fastly.com&fp=chrome&type=xhttp&path=/&host=oh1.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A%2260%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A16%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#🇪🇺 .Libere VPN · Node 02
