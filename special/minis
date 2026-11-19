@@ -1,14 +1,14 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 19.11.26 22:31 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-19T19:31:01Z
+#announce: последнее обновление : 19.11.26 23:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-19T20:01:06Z
 #count: 78
-vless://240fb69e-a0c3-0001-825d-cfc876846ea4@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&alpn=h2%2Chttp%2F1.1&fp=qq&type=tcp#🇩🇪 .Libere VPN · Node 01
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&alpn=h2%2Chttp%2F1.1&fp=qq&type=tcp#🇩🇪 .Libere VPN · Node 02
-vless://c2b17066-5386-0001-803b-5e652c0528f9@api.14887277.xyz:443?encryption=none&security=tls&sni=trx.tools&alpn=http%2F1.1&fp=qq&type=ws&host=api.14887277.xyz&path=%2Fsession#🇩🇪 .Libere VPN · Node 03
-hysteria2://b280a29b-a3d9-0001-8a81-198855a17d57@84.38.189.122:443?sni=shyrc-ru-75sel.my-fade.cloud&alpn=h3&insecure=0#🇩🇪 .Libere VPN · Node 04
-hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud&alpn=h3&insecure=0#🇩🇪 .Libere VPN · Node 05
-hysteria2://be986553-5976-0001-9209-3050366e40d1@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&insecure=0#🇫🇮 .Libere VPN · Node 06
+hysteria2://be986553-5976-0001-9209-3050366e40d1@185.151.243.186:443?sni=piodr-ru-74sel.my-fade.cloud&alpn=h3&insecure=0#🇫🇮 .Libere VPN · Node 01
+vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&host=rr1.global.ssl.fastly.net&path=%2F&mode=auto#🇪🇺 .Libere VPN · Node 02
+vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&host=rr2.global.ssl.fastly.net&path=%2F&mode=auto#🇪🇺 .Libere VPN · Node 03
+vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&host=tt2.global.ssl.fastly.net&path=%2F&mode=auto#🇪🇺 .Libere VPN · Node 04
+vless://cc99c57d-6c93-4031-9153-73f510636533@188.42.89.118:443?encryption=none&security=tls&sni=mama1455.baklajann.ru&fp=chrome&type=xhttp&host=mama1455.baklajann.ru&path=%2F&mode=auto#🇫🇷 .Libere VPN · Node 05
+vless://cc99c57d-6c93-4031-9153-73f510636533@31.43.179.196:443?encryption=none&security=tls&sni=mama51.baklajann.ru&fp=chrome&type=xhttp&host=mama51.baklajann.ru&path=%2F&mode=auto#🇫🇷 .Libere VPN · Node 06
 vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&path=/&host=rr1.global.ssl.fastly.net&mode=auto#🇪🇺 .Libere VPN · Node 07
 vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&path=/&host=rr2.global.ssl.fastly.net&mode=auto#🇺🇿 .Libere VPN · Node 08
 vless://cc99c57d-6c93-4031-9153-73f510636533@199.232.251.2:443?encryption=none&security=tls&sni=huesos.fastly.com&fp=chrome&type=xhttp&path=/&host=rr3.global.ssl.fastly.net&mode=auto#🇵🇹 .Libere VPN · Node 09
