@@ -1,7 +1,8 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
-#announce: последнее обновление : 21.11.26 11:30 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-21T08:30:52Z
+#profile-update-interval: 1
+#announce: последнее обновление : 21.11.26 11:48 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-21T08:48:13Z
 #count: 215
 vless://a9ff24d3-f308-4e72-acb9-a76062583837@82.202.142.227:23444?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=fontanka.ru&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a#🇩🇪 .Libere VPN · Node 01
 vless://a9ff24d3-f308-4e72-acb9-a76062583837@48.102.205.89:22444?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fontanka.ru&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a#🇫🇮 .Libere VPN · Node 02
