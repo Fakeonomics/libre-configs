@@ -32,8 +32,8 @@
   "url": "https://raw.githubusercontent.com/OceaniaVPN/StekloVPN/refs/heads/main/configs/okeania_auto.txt",
   "tier": "anchor",
   "enabled": 1,
-  "lastCount": 11,
-  "lastAt": "2026-11-25T16:31:01.380Z"
+  "lastCount": 22,
+  "lastAt": "2026-11-25T19:01:11.906Z"
  },
  {
   "id": "sub-vlessfo-ru",
@@ -41,7 +41,7 @@
   "url": "https://sub.vlessfo.ru/vlessforu/working_configs.txt",
   "tier": "anchor",
   "enabled": 1,
-  "lastCount": 141,
-  "lastAt": "2026-11-25T18:01:11.920Z"
+  "lastCount": 142,
+  "lastAt": "2026-11-25T19:01:11.906Z"
  }
 ]
