@@ -6,7 +6,7 @@
   "tier": "both",
   "enabled": 1,
   "lastCount": 69,
-  "lastAt": "2026-11-25T09:57:29.932Z"
+  "lastAt": "2026-11-25T16:31:01.380Z"
  },
  {
   "id": "mixer",
@@ -15,7 +15,7 @@
   "tier": "anchor",
   "enabled": 1,
   "lastCount": 78,
-  "lastAt": "2026-11-25T09:57:29.932Z"
+  "lastAt": "2026-11-25T16:31:01.380Z"
  },
  {
   "id": "goose",
@@ -24,7 +24,7 @@
   "tier": "anchor",
   "enabled": 1,
   "lastCount": 76,
-  "lastAt": "2026-11-25T09:57:29.932Z"
+  "lastAt": "2026-11-25T16:31:01.380Z"
  },
  {
   "id": "steklo",
@@ -32,7 +32,7 @@
   "url": "https://raw.githubusercontent.com/OceaniaVPN/StekloVPN/refs/heads/main/configs/okeania_auto.txt",
   "tier": "anchor",
   "enabled": 1,
-  "lastCount": 7,
-  "lastAt": "2026-11-25T14:30:59.336Z"
+  "lastCount": 11,
+  "lastAt": "2026-11-25T16:31:01.380Z"
  }
 ]
