@@ -40,6 +40,8 @@
   "name": "sub.vlessfo.ru",
   "url": "https://sub.vlessfo.ru/vlessforu/working_configs.txt",
   "tier": "anchor",
-  "enabled": 1
+  "enabled": 1,
+  "lastCount": 166,
+  "lastAt": "2026-11-25T17:35:30.658Z"
  }
 ]
