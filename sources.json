@@ -4,7 +4,7 @@
   "name": "HavenVPN",
   "url": "https://raw.githubusercontent.com/s0ulcoil/HavenVPN/refs/heads/main/Haven",
   "tier": "both",
-  "enabled": 1,
+  "enabled": 0,
   "lastCount": 69,
   "lastAt": "2026-11-25T16:31:01.380Z"
  },
