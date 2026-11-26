@@ -6,7 +6,7 @@
   "tier": "both",
   "enabled": 1,
   "lastCount": 6,
-  "lastAt": "2026-11-25T20:31:03.259Z"
+  "lastAt": "2026-11-26T11:01:18.082Z"
  },
  {
   "id": "mixer",
@@ -15,7 +15,7 @@
   "tier": "anchor",
   "enabled": 1,
   "lastCount": 121,
-  "lastAt": "2026-11-26T06:01:11.270Z"
+  "lastAt": "2026-11-26T11:01:18.082Z"
  },
  {
   "id": "goose",
@@ -24,7 +24,7 @@
   "tier": "anchor",
   "enabled": 1,
   "lastCount": 80,
-  "lastAt": "2026-11-26T10:30:58.341Z"
+  "lastAt": "2026-11-26T11:01:18.082Z"
  },
  {
   "id": "steklo",
@@ -33,15 +33,6 @@
   "tier": "anchor",
   "enabled": 1,
   "lastCount": 22,
-  "lastAt": "2026-11-25T19:01:11.906Z"
- },
- {
-  "id": "sub-vlessfo-ru",
-  "name": "sub.vlessfo.ru",
-  "url": "https://sub.vlessfo.ru/vlessforu/working_configs.txt",
-  "tier": "anchor",
-  "enabled": 1,
-  "lastCount": 173,
-  "lastAt": "2026-11-26T10:30:58.341Z"
+  "lastAt": "2026-11-26T11:01:18.082Z"
  }
 ]
