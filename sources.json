@@ -6,7 +6,7 @@
   "tier": "both",
   "enabled": 1,
   "lastCount": 12,
-  "lastAt": "2026-11-27T04:30:57.619Z"
+  "lastAt": "2026-11-27T07:31:02.330Z"
  },
  {
   "id": "mixer",
@@ -15,7 +15,7 @@
   "tier": "anchor",
   "enabled": 1,
   "lastCount": 194,
-  "lastAt": "2026-11-27T06:01:12.187Z"
+  "lastAt": "2026-11-27T07:31:02.330Z"
  },
  {
   "id": "goose",
@@ -24,7 +24,7 @@
   "tier": "anchor",
   "enabled": 1,
   "lastCount": 94,
-  "lastAt": "2026-11-27T03:01:11.436Z"
+  "lastAt": "2026-11-27T07:31:02.330Z"
  },
  {
   "id": "steklo",
@@ -33,6 +33,6 @@
   "tier": "anchor",
   "enabled": 1,
   "lastCount": 29,
-  "lastAt": "2026-11-27T00:30:54.523Z"
+  "lastAt": "2026-11-27T07:31:02.330Z"
  }
 ]
