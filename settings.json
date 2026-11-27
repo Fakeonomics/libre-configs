@@ -1,5 +1,5 @@
 {
- "keepDuplicates": true,
+ "keepDuplicates": false,
  "blockedCountries": [
   "RU"
  ]
