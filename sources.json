@@ -5,8 +5,8 @@
   "url": "https://raw.githubusercontent.com/s0ulcoil/HavenVPN/refs/heads/main/Haven",
   "tier": "both",
   "enabled": 1,
-  "lastCount": 12,
-  "lastAt": "2026-11-27T21:31:02.836Z"
+  "lastCount": 7,
+  "lastAt": "2026-11-27T23:01:21.921Z"
  },
  {
   "id": "mixer",
@@ -41,7 +41,7 @@
   "url": "https://sub.vlessfo.ru/vlessforu/working_configs.txt",
   "tier": "anchor",
   "enabled": 1,
-  "lastCount": 0,
-  "lastAt": "2026-11-27T22:31:03.019Z"
+  "lastCount": 146,
+  "lastAt": "2026-11-27T23:01:21.921Z"
  }
 ]
