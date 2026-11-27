@@ -1,3 +1,6 @@
 {
- "keepDuplicates": true
+ "keepDuplicates": true,
+ "blockedCountries": [
+  "RU"
+ ]
 }
