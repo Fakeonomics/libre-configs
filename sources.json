@@ -14,8 +14,8 @@
   "url": "https://raw.githubusercontent.com/PizdukMod/PizdukVPN/refs/heads/main/Mixer",
   "tier": "anchor",
   "enabled": 1,
-  "lastCount": 194,
-  "lastAt": "2026-11-27T14:01:17.309Z"
+  "lastCount": 143,
+  "lastAt": "2026-11-27T18:26:13.936Z"
  },
  {
   "id": "goose",
@@ -40,6 +40,8 @@
   "name": "sub.vlessfo.ru",
   "url": "https://sub.vlessfo.ru/vlessforu/working_configs.txt",
   "tier": "anchor",
-  "enabled": 1
+  "enabled": 1,
+  "lastCount": 111,
+  "lastAt": "2026-11-27T18:26:13.936Z"
  }
 ]
