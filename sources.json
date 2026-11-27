@@ -34,5 +34,12 @@
   "enabled": 1,
   "lastCount": 12,
   "lastAt": "2026-11-27T16:01:12.618Z"
+ },
+ {
+  "id": "sub-vlessfo-ru",
+  "name": "sub.vlessfo.ru",
+  "url": "https://sub.vlessfo.ru/vlessforu/working_configs.txt",
+  "tier": "anchor",
+  "enabled": 1
  }
 ]
