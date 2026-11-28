@@ -14,8 +14,8 @@
   "url": "https://raw.githubusercontent.com/PizdukMod/PizdukVPN/refs/heads/main/Mixer",
   "tier": "anchor",
   "enabled": 1,
-  "lastCount": 143,
-  "lastAt": "2026-11-27T21:31:02.836Z"
+  "lastCount": 158,
+  "lastAt": "2026-11-28T05:30:59.620Z"
  },
  {
   "id": "goose",
@@ -32,8 +32,8 @@
   "url": "https://raw.githubusercontent.com/OceaniaVPN/StekloVPN/refs/heads/main/configs/okeania_auto.txt",
   "tier": "anchor",
   "enabled": 1,
-  "lastCount": 25,
-  "lastAt": "2026-11-27T21:31:02.836Z"
+  "lastCount": 21,
+  "lastAt": "2026-11-28T05:30:59.620Z"
  },
  {
   "id": "sub-vlessfo-ru",
