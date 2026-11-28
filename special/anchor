@@ -1,8 +1,8 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
 #profile-update-interval: 1
-#announce: последнее обновление : 28.11.26 04:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-28T01:01:07Z
+#announce: последнее обновление : 28.11.26 04:30 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-28T01:30:54Z
 #count: 409
 vless://1ade7da3-edbe-4e1d-acd3-9738379a0dac@plnext-01.avroraservice.online:8443?encryption=none&security=reality&sni=cdn-plng.cahmes.space&fp=firefox&pbk=CfNBTIsftRSg56DcYqqFTug11Ff4IirfnbUAzyL6ZmE&sid=39a5886e503ec5ab&type=xhttp&path=%2Fxhttp&mode=stream-one#🇷🇺 .Libere VPN · Node 01
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@37.18.14.25:18442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sbmicro731.alexdjane.am&fp=firefox&pbk=qcQLgmXcaZnmi6G19qfREf1_vj-f05z8CVW0q8-4vyQ&sid=fdf358c631f381c3&type=tcp#🇷🇺 .Libere VPN · Node 02
@@ -312,7 +312,7 @@ vless://ba373a70-295f-482d-a471-8bc17b54e23b@131.123.38.29:443?type=grpc&securit
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fl-b3.golangwikito.cfd:61374?encryption=none&type=xhttp&security=reality&sni=fl-b3.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&fp=safari&spx=/&path=/&host=fl-b3.golangwikito.cfd&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D#🇫🇮 .Libere VPN · Node 306
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.109.103.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rumos.yandex-api.com&fp=firefox&pbk=gQYbz6BaTE05ZD6sk_0lHZGsk2cXzt1cKdjVWZM_C2g&sid=badfead2ae4dca2e&type=tcp&headerType=none#🇷🇺 .Libere VPN · Node 307
 hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#🇺🇸 .Libere VPN · Node 308
-vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.35:443?flow=xtls-rprx-vision&security=reality&sni=astralnote.space&fp=qq&pbk=RcPNBbJIiuFtYkgKJ3PhlBvAYxe9GD2DU_1F8iTzlSY&sid=b88c99d593511774#🇵🇱 .Libere VPN · Node 309
+vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.211.14.35:443?flow=xtls-rprx-vision&security=reality&sni=astralnote.space&fp=qq&pbk=RcPNBbJIiuFtYkgKJ3PhlBvAYxe9GD2DU_1F8iTzlSY&sid=b88c99d593511774#🇺🇦 .Libere VPN · Node 309
 vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@217.60.179.91:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vk6TInAbIN-86i6EkR_vbnZjpapfq5WM4hIhwRl0FVY&security=reality&sid=50198c562d354968&sni=bestrecipes-online.site&type=tcp#🇮🇷 .Libere VPN · Node 310
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.213:13337?sni=mother-earth.fyi#🇺🇸 .Libere VPN · Node 311
 vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@177.202.77.68:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=bestrecipes-online.site&pbk=pObIvB3f4ARJkDPQDUlg-bh5THSy7Z2uBp23P-hWmg8&sid=d29a95dd64f525d7&fp=firefox#🇧🇷 .Libere VPN · Node 312
@@ -374,7 +374,7 @@ vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@45.9.14.195:8445?encryption=none&fl
 vless://018cc321-b683-400c-84df-9f94fc14e44f@c3f5cb9e.fi23.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=c3f5cb9e.fi23.h1clayd.shop&fp=firefox&pbk=IPe3TKJ84tWTMFnJH2ZtO93O_F548wzGKcs2Q00aCn4&sid=aaf5efcafe9a1b1e&spx=%2F822b9c4bb1a2055&flow=xtls-rprx-vision#🇩🇪 .Libere VPN · Node 368
 vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@212.193.15.188:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=32gtJRJex3SyJDdXPGOd4rZDewKn_-yvWnEDbTfX8gk&security=reality&sid=b5df65b600481ef6&sni=sbmicrogem676.gangplatform.com&type=tcp#🇷🇺 .Libere VPN · Node 369
 vless://318d9cc0-248f-4f44-b79a-1ba4fda95c08@185.231.204.70:8443?encryption=none&fp=firefox&path=/23469c1d080089734bba4416&pbk=cj560j1TzKXUTD1UjZqPWGroeUtVc4CaIamhzbcxx14&security=reality&sid=ab2ba1fb41ca9692&sni=www.aegon.com&type=xhttp#🇷🇺 .Libere VPN · Node 370
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=absolute-disaster.org&fp=safari&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8#🇷🇺 .Libere VPN · Node 371
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=absolute-disaster.org&fp=safari&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8#🇧🇷 .Libere VPN · Node 371
 vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@217.60.179.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vk6TInAbIN-86i6EkR_vbnZjpapfq5WM4hIhwRl0FVY&security=reality&sid=50198c562d354968&sni=bestrecipes-online.site&type=tcp#🇮🇷 .Libere VPN · Node 372
 vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@93.184.169.233:443?type=xhttp&security=reality&fp=firefox&pbk=pF63V3JDoxSa9lMMKoXyxpjBJNqIsajj84LMXElvF1w&sid=1205987ccd622887&sni=srartsfoparts.store&path=/e90d4e998aad/9d1d9b8b&host=srartsfoparts.store&mode=auto#🇷🇺 .Libere VPN · Node 373
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r2.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&fp=firefox&spx=/&path=/&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D#🇺🇸 .Libere VPN · Node 374
