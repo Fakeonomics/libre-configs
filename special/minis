@@ -1,13 +1,14 @@
 #profile-title: .Libere VPN | @IFakeNews
 #support-url: https://t.me/IFakeNews
 #profile-update-interval: 1
-#announce: последнее обновление : 28.11.26 02:01 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
-#updated: 2026-11-27T23:01:19Z
-#count: 7
-vless://1ade7da3-edbe-4e1d-acd3-9738379a0dac@plnext-01.avroraservice.online:8443?encryption=none&security=reality&sni=cdn-plng.cahmes.space&fp=firefox&pbk=CfNBTIsftRSg56DcYqqFTug11Ff4IirfnbUAzyL6ZmE&sid=39a5886e503ec5ab&type=xhttp&path=%2Fxhttp&mode=stream-one#🇷🇺 .Libere VPN · Node 01
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@37.18.14.25:18442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sbmicro731.alexdjane.am&fp=firefox&pbk=qcQLgmXcaZnmi6G19qfREf1_vj-f05z8CVW0q8-4vyQ&sid=fdf358c631f381c3&type=tcp#🇷🇺 .Libere VPN · Node 02
-vless://1ade7da3-edbe-4e1d-acd3-9738379a0dac@fr-02.avroraservice.online:8443?encryption=none&security=reality&sni=cdn-fr.cahmes.space&fp=firefox&pbk=x4SMsuhbmd22EHfnfxPZfIQs2BuHT2mKFvL6UwSMWS0&sid=5c3b5015fc2885e4&type=xhttp&path=%2Fxhttp&mode=stream-one#🇫🇷 .Libere VPN · Node 03
-vless://1ade7da3-edbe-4e1d-acd3-9738379a0dac@de-04.avroraservice.online:8443?encryption=none&security=reality&sni=cdn-de.cahmes.space&fp=firefox&pbk=LP7yXSC50lHfxW-BuRQ3OLDBNncF2KVnMgVJuX9XR2w&sid=35cd2022241da999&type=xhttp&path=%2Fxhttp&mode=stream-one#🇮🇪 .Libere VPN · Node 04
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.86.147.33:443?encryption=none&security=tls&sni=get.rtkdvbr.cc&fp=firefox&type=ws&host=&path=%2Fg189ws#🇷🇺 .Libere VPN · Node 05
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@37.18.14.25:18442?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sbmicro731.alexdjane.am&fp=firefox&pbk=qcQLgmXcaZnmi6G19qfREf1_vj-f05z8CVW0q8-4vyQ&sid=fdf358c631f381c3&type=tcp#🇷🇺 .Libere VPN · Node 06
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@5.255.127.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nle.899themes.pro&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&type=tcp#🇳🇱 .Libere VPN · Node 07
+#announce: последнее обновление : 28.11.26 10:31 МСК | перед подключением проверяйте пинг - 🕒 | не работает? обновите - ↻
+#updated: 2026-11-28T07:31:00Z
+#count: 8
+hysteria2://fb721937-6284-4892-9cbd-c3ba2cb66b4a@85.8.201.247:443?sni=cdn.mornismp.ru&alpn=h3&insecure=0#🇬🇧 .Libere VPN · Node 01
+vless://1de7c996-62d9-40dc-9848-0eee29259cd6@188.225.82.87:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=parts.autodom13.ru&fp=firefox&pbk=YziWEQOppDZwYIugLcrkVf_5s63IBsM04fby_06cdDE&sid=fd1776655ed8020d&type=tcp#🇷🇺 .Libere VPN · Node 02
+vless://fb721937-6284-0002-9cbd-c3ba2cb66b4a@46.173.26.242:2083?encryption=none&security=tls&sni=cdn.mornismp.ru&alpn=h2&fp=edge&type=xhttp&path=%2Ftransport%2Fxhttp&mode=auto#🇷🇺 .Libere VPN · Node 03
+vless://fb721937-6284-0019-9cbd-c3ba2cb66b4a@46.173.26.242:2083?encryption=none&security=tls&sni=cdn.mornismp.ru&alpn=h2&fp=edge&type=xhttp&path=%2Ftransport%2Fxhttp&mode=auto#🇷🇺 .Libere VPN · Node 04
+vless://fb721937-6284-001b-9cbd-c3ba2cb66b4a@85.8.201.247:2083?encryption=none&security=tls&sni=cdn.mornismp.ru&alpn=h2&fp=edge&type=xhttp&path=%2Ftransport%2Fxhttp&mode=auto#🇬🇧 .Libere VPN · Node 05
+vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@83.243.86.215:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=durov.sky-vault.top&fp=firefox&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&sid=3cbc3d737fb9c4af&type=tcp#🇩🇪 .Libere VPN · Node 06
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@193.124.66.208:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rufinmicro1.gangplatform.com&fp=qq&pbk=7LBetmnWiUHWLTnW_sflaJvDfgSkTIe1BE6zw_dg1xY&sid=899cbfb833ccbe51&type=tcp#🇷🇺 .Libere VPN · Node 07
+vless://5b20b66b-5e7e-4c00-a3b0-ce5de8611c4d@185.18.250.2:443?encryption=none&security=tls&sni=worker3.simax49258.workers.dev&fp=firefox&type=ws&host=&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560#🇪🇸 .Libere VPN · Node 08
